@@ -1,0 +1,361 @@
+Campaign,Ad group,Ad ID,Ad type,Headline 1,Impr.,Clicks,Cost,Conversions,Conv. value
+Search - Connectors - India - 000,AG 1,2000000000000,Responsive search ad,Request a Sample,1794,123,6213.45,6.0,39000.0
+Search - Connectors - India - 000,AG 1,2000000000001,Responsive search ad,Datasheets & CAD Models,9120,528,13502.33,32.0,208000.0
+Search - Connectors - India - 000,AG 1,2000000000002,Responsive search ad,Ships in 48 Hours,23684,485,16901.67,25.0,162500.0
+Search - Connectors - India - 000,AG 2,2000000000010,Responsive search ad,Request a Sample,6705,327,15325.39,13.0,84500.0
+Search - Connectors - India - 000,AG 2,2000000000011,Responsive search ad,Request a Sample,13274,764,37995.95,23.0,149500.0
+Search - Connectors - India - 000,AG 2,2000000000012,Responsive search ad,Datasheets & CAD Models,3892,253,8525.98,8.0,52000.0
+Search - Cables - India - 001,AG 1,2000000003700,Responsive search ad,Datasheets & CAD Models,6687,322,15261.05,8.0,52000.0
+Search - Cables - India - 001,AG 1,2000000003701,Responsive search ad,Engineered for 224G,15008,316,9092.89,16.0,104000.0
+Search - Cables - India - 001,AG 1,2000000003702,Responsive search ad,Request a Sample,12071,601,29117.64,19.0,123500.0
+Search - Cables - India - 001,AG 2,2000000003710,Responsive search ad,Engineered for 224G,10318,695,23532.15,23.0,149500.0
+Search - Cables - India - 001,AG 2,2000000003711,Responsive search ad,Datasheets & CAD Models,17236,754,39848.8,15.0,97500.0
+Search - Cables - India - 001,AG 2,2000000003712,Responsive search ad,Datasheets & CAD Models,24564,706,32848.92,9.0,58500.0
+Search - Fiber Optics - India - 002,AG 1,2000000007400,Responsive search ad,Request a Sample,23875,811,38983.05,21.0,136500.0
+Search - Fiber Optics - India - 002,AG 1,2000000007401,Responsive search ad,Datasheets & CAD Models,9224,598,29320.11,37.0,240500.0
+Search - Fiber Optics - India - 002,AG 1,2000000007402,Responsive search ad,Ships in 48 Hours,2019,122,5356.2,2.0,13000.0
+Search - Fiber Optics - India - 002,AG 2,2000000007410,Responsive search ad,Engineered for 224G,9634,400,11139.28,6.0,39000.0
+Search - Fiber Optics - India - 002,AG 2,2000000007411,Responsive search ad,Ships in 48 Hours,6663,415,14998.03,8.0,52000.0
+Search - Fiber Optics - India - 002,AG 2,2000000007412,Responsive search ad,Datasheets & CAD Models,20264,542,24066.0,22.0,143000.0
+Search - Antennas - US - 003,AG 1,2000000011100,Responsive search ad,Ships in 48 Hours,14727,417,10695.14,15.0,97500.0
+Search - Antennas - US - 003,AG 1,2000000011101,Responsive search ad,Request a Sample,5810,189,5308.78,3.0,19500.0
+Search - Antennas - US - 003,AG 1,2000000011102,Responsive search ad,Request a Sample,11293,637,32594.91,27.0,175500.0
+Search - Antennas - US - 003,AG 2,2000000011110,Responsive search ad,Datasheets & CAD Models,18445,492,17483.76,38.0,247000.0
+Search - Antennas - US - 003,AG 2,2000000011111,Responsive search ad,Datasheets & CAD Models,4090,241,9001.85,7.0,45500.0
+Search - Antennas - US - 003,AG 2,2000000011112,Responsive search ad,Datasheets & CAD Models,1597,82,4385.37,3.0,19500.0
+Search - Backplane - US - 004,AG 1,2000000014800,Responsive search ad,Request a Sample,34498,763,37143.21,48.0,312000.0
+Search - Backplane - US - 004,AG 1,2000000014801,Responsive search ad,Datasheets & CAD Models,9049,429,21686.51,21.0,136500.0
+Search - Backplane - US - 004,AG 1,2000000014802,Responsive search ad,Request a Sample,8506,337,15821.74,2.0,13000.0
+Search - Backplane - US - 004,AG 2,2000000014810,Responsive search ad,Datasheets & CAD Models,8915,485,22390.86,18.0,117000.0
+Search - Backplane - US - 004,AG 2,2000000014811,Responsive search ad,Ships in 48 Hours,21624,787,35391.38,36.0,234000.0
+Search - Backplane - US - 004,AG 2,2000000014812,Responsive search ad,Request a Sample,4768,181,6070.17,18.0,117000.0
+Search - High-Speed I/O - US - 005,AG 1,2000000018500,Responsive search ad,Datasheets & CAD Models,12296,254,6993.5,10.0,65000.0
+Search - High-Speed I/O - US - 005,AG 1,2000000018501,Responsive search ad,Engineered for 224G,3224,224,12036.22,3.0,19500.0
+Search - High-Speed I/O - US - 005,AG 1,2000000018502,Responsive search ad,Ships in 48 Hours,10345,228,10511.46,9.0,58500.0
+Search - High-Speed I/O - US - 005,AG 2,2000000018510,Responsive search ad,Request a Sample,19347,517,15564.51,44.0,286000.0
+Search - High-Speed I/O - US - 005,AG 2,2000000018511,Responsive search ad,Datasheets & CAD Models,3247,194,8149.39,4.0,26000.0
+Search - High-Speed I/O - US - 005,AG 2,2000000018512,Responsive search ad,Engineered for 224G,8313,577,17861.24,47.0,305500.0
+Search - Power - Germany - 006,AG 1,2000000022200,Responsive search ad,Engineered for 224G,5887,285,7450.89,9.0,58500.0
+Search - Power - Germany - 006,AG 1,2000000022201,Responsive search ad,Datasheets & CAD Models,2807,172,7430.5,2.0,13000.0
+Search - Power - Germany - 006,AG 1,2000000022202,Responsive search ad,Engineered for 224G,20278,724,22160.45,54.0,351000.0
+Search - Power - Germany - 006,AG 2,2000000022210,Responsive search ad,Datasheets & CAD Models,9008,621,32472.54,33.0,214500.0
+Search - Power - Germany - 006,AG 2,2000000022211,Responsive search ad,Datasheets & CAD Models,26885,813,28310.98,22.0,143000.0
+Search - Power - Germany - 006,AG 2,2000000022212,Responsive search ad,Request a Sample,16172,673,19024.51,22.0,143000.0
+Search - RF - Germany - 007,AG 1,2000000025900,Responsive search ad,Request a Sample,15812,892,41056.75,40.0,260000.0
+Search - RF - Germany - 007,AG 1,2000000025901,Responsive search ad,Engineered for 224G,10833,734,32551.29,52.0,338000.0
+Search - RF - Germany - 007,AG 1,2000000025902,Responsive search ad,Ships in 48 Hours,2588,97,5185.44,4.0,26000.0
+Search - RF - Germany - 007,AG 2,2000000025910,Responsive search ad,Datasheets & CAD Models,10271,575,23775.43,13.0,84500.0
+Search - RF - Germany - 007,AG 2,2000000025911,Responsive search ad,Engineered for 224G,22598,791,25250.64,45.0,292500.0
+Search - RF - Germany - 007,AG 2,2000000025912,Responsive search ad,Ships in 48 Hours,13919,350,10632.68,9.0,58500.0
+Search - Sensors - Germany - 008,AG 1,2000000029600,Responsive search ad,Ships in 48 Hours,3502,103,4213.89,5.0,32500.0
+Search - Sensors - Germany - 008,AG 1,2000000029601,Responsive search ad,Request a Sample,17607,692,26824.91,45.0,292500.0
+Search - Sensors - Germany - 008,AG 1,2000000029602,Responsive search ad,Engineered for 224G,16651,868,38087.84,57.0,370500.0
+Search - Sensors - Germany - 008,AG 2,2000000029610,Responsive search ad,Datasheets & CAD Models,17879,721,30372.73,27.0,175500.0
+Search - Sensors - Germany - 008,AG 2,2000000029611,Responsive search ad,Ships in 48 Hours,1872,109,3804.41,0.0,0.0
+Search - Sensors - Germany - 008,AG 2,2000000029612,Responsive search ad,Engineered for 224G,8644,404,21081.64,24.0,156000.0
+Search - Industrial - China - 009,AG 1,2000000033300,Responsive search ad,Datasheets & CAD Models,5613,354,9350.86,17.0,110500.0
+Search - Industrial - China - 009,AG 1,2000000033301,Responsive search ad,Datasheets & CAD Models,16635,751,40174.52,35.0,227500.0
+Search - Industrial - China - 009,AG 1,2000000033302,Responsive search ad,Engineered for 224G,13327,371,10140.61,13.0,84500.0
+Search - Industrial - China - 009,AG 2,2000000033310,Responsive search ad,Ships in 48 Hours,12034,674,23284.07,41.0,266500.0
+Search - Industrial - China - 009,AG 2,2000000033311,Responsive search ad,Ships in 48 Hours,11553,498,23589.4,30.0,195000.0
+Search - Industrial - China - 009,AG 2,2000000033312,Responsive search ad,Request a Sample,11741,558,24477.78,17.0,110500.0
+Search - Automotive - China - 010,AG 1,2000000037000,Responsive search ad,Engineered for 224G,12778,780,35898.04,29.0,188500.0
+Search - Automotive - China - 010,AG 1,2000000037001,Responsive search ad,Request a Sample,13618,486,12920.78,31.0,201500.0
+Search - Automotive - China - 010,AG 1,2000000037002,Responsive search ad,Engineered for 224G,2296,130,5472.27,2.0,13000.0
+Search - Automotive - China - 010,AG 2,2000000037010,Responsive search ad,Ships in 48 Hours,19239,409,15992.95,17.0,110500.0
+Search - Automotive - China - 010,AG 2,2000000037011,Responsive search ad,Ships in 48 Hours,4110,270,11658.81,14.0,91000.0
+Search - Automotive - China - 010,AG 2,2000000037012,Responsive search ad,Request a Sample,4727,280,14095.39,2.0,13000.0
+Search - Datacom - China - 011,AG 1,2000000040700,Responsive search ad,Engineered for 224G,13144,638,19816.81,38.0,247000.0
+Search - Datacom - China - 011,AG 1,2000000040701,Responsive search ad,Ships in 48 Hours,3797,155,5578.3,5.0,32500.0
+Search - Datacom - China - 011,AG 1,2000000040702,Responsive search ad,Datasheets & CAD Models,14767,303,10482.07,7.0,45500.0
+Search - Datacom - China - 011,AG 2,2000000040710,Responsive search ad,Datasheets & CAD Models,31200,792,26170.7,27.0,175500.0
+Search - Datacom - China - 011,AG 2,2000000040711,Responsive search ad,Request a Sample,1927,118,3566.01,8.0,52000.0
+Search - Datacom - China - 011,AG 2,2000000040712,Responsive search ad,Engineered for 224G,17088,445,12382.11,18.0,117000.0
+Search - Connectors - Japan - 012,AG 1,2000000044400,Responsive search ad,Engineered for 224G,18451,678,32477.87,23.0,149500.0
+Search - Connectors - Japan - 012,AG 1,2000000044401,Responsive search ad,Ships in 48 Hours,9005,376,17946.5,19.0,123500.0
+Search - Connectors - Japan - 012,AG 1,2000000044402,Responsive search ad,Request a Sample,5741,223,10734.1,7.0,45500.0
+Search - Connectors - Japan - 012,AG 2,2000000044410,Responsive search ad,Ships in 48 Hours,1779,104,3724.65,0.0,0.0
+Search - Connectors - Japan - 012,AG 2,2000000044411,Responsive search ad,Engineered for 224G,5490,357,16324.79,21.0,136500.0
+Search - Connectors - Japan - 012,AG 2,2000000044412,Responsive search ad,Datasheets & CAD Models,16155,754,35229.38,32.0,208000.0
+Search - Cables - Japan - 013,AG 1,2000000048100,Responsive search ad,Engineered for 224G,6718,312,8290.49,28.0,182000.0
+Search - Cables - Japan - 013,AG 1,2000000048101,Responsive search ad,Engineered for 224G,3657,246,10309.99,18.0,117000.0
+Search - Cables - Japan - 013,AG 1,2000000048102,Responsive search ad,Request a Sample,14220,535,28615.71,28.0,182000.0
+Search - Cables - Japan - 013,AG 2,2000000048110,Responsive search ad,Engineered for 224G,5159,220,10331.93,3.0,19500.0
+Search - Cables - Japan - 013,AG 2,2000000048111,Responsive search ad,Request a Sample,5209,254,12297.44,11.0,71500.0
+Search - Cables - Japan - 013,AG 2,2000000048112,Responsive search ad,Engineered for 224G,13991,873,33090.42,24.0,156000.0
+Search - Fiber Optics - Japan - 014,AG 1,2000000051800,Responsive search ad,Request a Sample,14706,898,33347.7,20.0,130000.0
+Search - Fiber Optics - Japan - 014,AG 1,2000000051801,Responsive search ad,Engineered for 224G,18825,658,27245.93,23.0,149500.0
+Search - Fiber Optics - Japan - 014,AG 1,2000000051802,Responsive search ad,Ships in 48 Hours,5902,350,10131.87,25.0,162500.0
+Search - Fiber Optics - Japan - 014,AG 2,2000000051810,Responsive search ad,Engineered for 224G,2793,166,5658.49,15.0,97500.0
+Search - Fiber Optics - Japan - 014,AG 2,2000000051811,Responsive search ad,Request a Sample,5530,280,12716.87,9.0,58500.0
+Search - Fiber Optics - Japan - 014,AG 2,2000000051812,Responsive search ad,Datasheets & CAD Models,3775,247,8790.24,15.0,97500.0
+Search - Antennas - UK - 015,AG 1,2000000055500,Responsive search ad,Request a Sample,7636,307,16405.97,23.0,149500.0
+Search - Antennas - UK - 015,AG 1,2000000055501,Responsive search ad,Request a Sample,4027,280,14518.83,21.0,136500.0
+Search - Antennas - UK - 015,AG 1,2000000055502,Responsive search ad,Ships in 48 Hours,8035,359,10489.73,12.0,78000.0
+Search - Antennas - UK - 015,AG 2,2000000055510,Responsive search ad,Engineered for 224G,23442,768,22968.08,45.0,292500.0
+Search - Antennas - UK - 015,AG 2,2000000055511,Responsive search ad,Datasheets & CAD Models,10786,700,30103.56,36.0,234000.0
+Search - Antennas - UK - 015,AG 2,2000000055512,Responsive search ad,Ships in 48 Hours,6795,450,12489.72,23.0,149500.0
+Search - Backplane - UK - 016,AG 1,2000000059200,Responsive search ad,Ships in 48 Hours,20516,561,14278.52,4.0,26000.0
+Search - Backplane - UK - 016,AG 1,2000000059201,Responsive search ad,Datasheets & CAD Models,14524,784,35797.32,25.0,162500.0
+Search - Backplane - UK - 016,AG 1,2000000059202,Responsive search ad,Datasheets & CAD Models,15140,570,18599.89,21.0,136500.0
+Search - Backplane - UK - 016,AG 2,2000000059210,Responsive search ad,Engineered for 224G,13654,607,21250.06,20.0,130000.0
+Search - Backplane - UK - 016,AG 2,2000000059211,Responsive search ad,Engineered for 224G,7243,279,10901.51,17.0,110500.0
+Search - Backplane - UK - 016,AG 2,2000000059212,Responsive search ad,Request a Sample,11735,402,13868.19,28.0,182000.0
+Search - High-Speed I/O - UK - 017,AG 1,2000000062900,Responsive search ad,Datasheets & CAD Models,7523,365,9412.69,6.0,39000.0
+Search - High-Speed I/O - UK - 017,AG 1,2000000062901,Responsive search ad,Engineered for 224G,11186,641,16856.02,21.0,136500.0
+Search - High-Speed I/O - UK - 017,AG 1,2000000062902,Responsive search ad,Request a Sample,13176,891,44726.31,31.0,201500.0
+Search - High-Speed I/O - UK - 017,AG 2,2000000062910,Responsive search ad,Datasheets & CAD Models,15759,739,33936.78,24.0,156000.0
+Search - High-Speed I/O - UK - 017,AG 2,2000000062911,Responsive search ad,Request a Sample,8235,423,23099.49,1.0,6500.0
+Search - High-Speed I/O - UK - 017,AG 2,2000000062912,Responsive search ad,Engineered for 224G,6175,396,13600.33,10.0,65000.0
+Search - Power - France - 018,AG 1,2000000066600,Responsive search ad,Datasheets & CAD Models,9733,304,12441.88,18.0,117000.0
+Search - Power - France - 018,AG 1,2000000066601,Responsive search ad,Engineered for 224G,17509,557,15445.39,26.0,169000.0
+Search - Power - France - 018,AG 1,2000000066602,Responsive search ad,Datasheets & CAD Models,12161,674,29755.34,9.0,58500.0
+Search - Power - France - 018,AG 2,2000000066610,Responsive search ad,Datasheets & CAD Models,3860,242,12265.64,10.0,65000.0
+Search - Power - France - 018,AG 2,2000000066611,Responsive search ad,Request a Sample,7820,520,20293.54,29.0,188500.0
+Search - Power - France - 018,AG 2,2000000066612,Responsive search ad,Datasheets & CAD Models,7825,483,21928.38,14.0,91000.0
+Search - RF - France - 019,AG 1,2000000070300,Responsive search ad,Ships in 48 Hours,10191,668,32430.17,36.0,234000.0
+Search - RF - France - 019,AG 1,2000000070301,Responsive search ad,Ships in 48 Hours,11660,307,9908.63,14.0,91000.0
+Search - RF - France - 019,AG 1,2000000070302,Responsive search ad,Request a Sample,17059,653,28808.82,26.0,169000.0
+Search - RF - France - 019,AG 2,2000000070310,Responsive search ad,Engineered for 224G,18645,719,32587.08,44.0,286000.0
+Search - RF - France - 019,AG 2,2000000070311,Responsive search ad,Datasheets & CAD Models,9148,410,11015.78,4.0,26000.0
+Search - RF - France - 019,AG 2,2000000070312,Responsive search ad,Request a Sample,15944,875,45228.06,62.0,403000.0
+Search - Sensors - France - 020,AG 1,2000000074000,Responsive search ad,Request a Sample,12906,674,17503.62,36.0,234000.0
+Search - Sensors - France - 020,AG 1,2000000074001,Responsive search ad,Datasheets & CAD Models,12665,692,23417.45,44.0,286000.0
+Search - Sensors - France - 020,AG 1,2000000074002,Responsive search ad,Engineered for 224G,17104,544,24036.71,16.0,104000.0
+Search - Sensors - France - 020,AG 2,2000000074010,Responsive search ad,Engineered for 224G,14606,806,36144.23,27.0,175500.0
+Search - Sensors - France - 020,AG 2,2000000074011,Responsive search ad,Datasheets & CAD Models,12317,479,23513.01,28.0,182000.0
+Search - Sensors - France - 020,AG 2,2000000074012,Responsive search ad,Request a Sample,20796,614,15663.65,12.0,78000.0
+Search - Industrial - Mexico - 021,AG 1,2000000077700,Responsive search ad,Request a Sample,3159,86,2599.15,6.0,39000.0
+Search - Industrial - Mexico - 021,AG 1,2000000077701,Responsive search ad,Ships in 48 Hours,8939,263,10527.42,16.0,104000.0
+Search - Industrial - Mexico - 021,AG 1,2000000077702,Responsive search ad,Datasheets & CAD Models,8640,448,15077.32,15.0,97500.0
+Search - Industrial - Mexico - 021,AG 2,2000000077710,Responsive search ad,Datasheets & CAD Models,9311,556,22446.93,12.0,78000.0
+Search - Industrial - Mexico - 021,AG 2,2000000077711,Responsive search ad,Request a Sample,11724,670,18966.78,51.0,331500.0
+Search - Industrial - Mexico - 021,AG 2,2000000077712,Responsive search ad,Engineered for 224G,3861,127,4488.92,4.0,26000.0
+Search - Automotive - Mexico - 022,AG 1,2000000081400,Responsive search ad,Ships in 48 Hours,7005,363,11550.34,23.0,149500.0
+Search - Automotive - Mexico - 022,AG 1,2000000081401,Responsive search ad,Engineered for 224G,11282,637,28019.44,12.0,78000.0
+Search - Automotive - Mexico - 022,AG 1,2000000081402,Responsive search ad,Datasheets & CAD Models,6644,253,10408.01,10.0,65000.0
+Search - Automotive - Mexico - 022,AG 2,2000000081410,Responsive search ad,Ships in 48 Hours,5344,334,14727.67,4.0,26000.0
+Search - Automotive - Mexico - 022,AG 2,2000000081411,Responsive search ad,Datasheets & CAD Models,17967,711,26957.7,44.0,286000.0
+Search - Automotive - Mexico - 022,AG 2,2000000081412,Responsive search ad,Datasheets & CAD Models,12104,442,16317.63,11.0,71500.0
+Search - Datacom - Mexico - 023,AG 1,2000000085100,Responsive search ad,Ships in 48 Hours,15477,501,20547.67,19.0,123500.0
+Search - Datacom - Mexico - 023,AG 1,2000000085101,Responsive search ad,Engineered for 224G,6634,369,10382.32,11.0,71500.0
+Search - Datacom - Mexico - 023,AG 1,2000000085102,Responsive search ad,Request a Sample,14624,698,23317.47,49.0,318500.0
+Search - Datacom - Mexico - 023,AG 2,2000000085110,Responsive search ad,Ships in 48 Hours,25280,614,17653.53,22.0,143000.0
+Search - Datacom - Mexico - 023,AG 2,2000000085111,Responsive search ad,Request a Sample,16456,674,35941.8,34.0,221000.0
+Search - Datacom - Mexico - 023,AG 2,2000000085112,Responsive search ad,Ships in 48 Hours,14002,818,22373.37,49.0,318500.0
+Search - Connectors - India - 024,AG 1,2000000088800,Responsive search ad,Datasheets & CAD Models,11577,451,14303.33,20.0,130000.0
+Search - Connectors - India - 024,AG 1,2000000088801,Responsive search ad,Engineered for 224G,6538,430,19888.32,20.0,130000.0
+Search - Connectors - India - 024,AG 1,2000000088802,Responsive search ad,Ships in 48 Hours,7802,452,12368.61,10.0,65000.0
+Search - Connectors - India - 024,AG 2,2000000088810,Responsive search ad,Ships in 48 Hours,8707,175,6422.19,6.0,39000.0
+Search - Connectors - India - 024,AG 2,2000000088811,Responsive search ad,Engineered for 224G,11912,518,16234.61,7.0,45500.0
+Search - Connectors - India - 024,AG 2,2000000088812,Responsive search ad,Ships in 48 Hours,11945,808,27261.78,25.0,162500.0
+Search - Cables - India - 025,AG 1,2000000092500,Responsive search ad,Request a Sample,13614,780,27654.75,10.0,65000.0
+Search - Cables - India - 025,AG 1,2000000092501,Responsive search ad,Engineered for 224G,3126,151,6067.4,6.0,39000.0
+Search - Cables - India - 025,AG 1,2000000092502,Responsive search ad,Datasheets & CAD Models,32163,871,27731.43,27.0,175500.0
+Search - Cables - India - 025,AG 2,2000000092510,Responsive search ad,Request a Sample,8853,298,13246.01,13.0,84500.0
+Search - Cables - India - 025,AG 2,2000000092511,Responsive search ad,Datasheets & CAD Models,1685,97,2792.72,1.0,6500.0
+Search - Cables - India - 025,AG 2,2000000092512,Responsive search ad,Engineered for 224G,13956,449,18431.13,16.0,104000.0
+Search - Fiber Optics - India - 026,AG 1,2000000096200,Responsive search ad,Request a Sample,18972,711,24814.95,14.0,91000.0
+Search - Fiber Optics - India - 026,AG 1,2000000096201,Responsive search ad,Engineered for 224G,11039,276,12189.46,13.0,84500.0
+Search - Fiber Optics - India - 026,AG 1,2000000096202,Responsive search ad,Engineered for 224G,2491,133,4798.92,10.0,65000.0
+Search - Fiber Optics - India - 026,AG 2,2000000096210,Responsive search ad,Ships in 48 Hours,4412,299,11299.16,26.0,169000.0
+Search - Fiber Optics - India - 026,AG 2,2000000096211,Responsive search ad,Engineered for 224G,22354,503,18280.83,10.0,65000.0
+Search - Fiber Optics - India - 026,AG 2,2000000096212,Responsive search ad,Ships in 48 Hours,10540,515,22125.75,41.0,266500.0
+Search - Antennas - US - 027,AG 1,2000000099900,Responsive search ad,Datasheets & CAD Models,11603,400,12009.0,18.0,117000.0
+Search - Antennas - US - 027,AG 1,2000000099901,Responsive search ad,Ships in 48 Hours,1535,86,3091.47,3.0,19500.0
+Search - Antennas - US - 027,AG 1,2000000099902,Responsive search ad,Datasheets & CAD Models,20423,802,40277.33,23.0,149500.0
+Search - Antennas - US - 027,AG 2,2000000099910,Responsive search ad,Request a Sample,11339,635,20365.28,22.0,143000.0
+Search - Antennas - US - 027,AG 2,2000000099911,Responsive search ad,Ships in 48 Hours,8594,599,19387.27,9.0,58500.0
+Search - Antennas - US - 027,AG 2,2000000099912,Responsive search ad,Engineered for 224G,13835,817,40084.51,15.0,97500.0
+Search - Backplane - US - 028,AG 1,2000000103600,Responsive search ad,Ships in 48 Hours,10751,679,33184.56,13.0,84500.0
+Search - Backplane - US - 028,AG 1,2000000103601,Responsive search ad,Engineered for 224G,9412,390,12610.28,17.0,110500.0
+Search - Backplane - US - 028,AG 1,2000000103602,Responsive search ad,Request a Sample,4459,240,8034.45,14.0,91000.0
+Search - Backplane - US - 028,AG 2,2000000103610,Responsive search ad,Request a Sample,3480,213,8739.73,5.0,32500.0
+Search - Backplane - US - 028,AG 2,2000000103611,Responsive search ad,Request a Sample,13204,858,29224.33,28.0,182000.0
+Search - Backplane - US - 028,AG 2,2000000103612,Responsive search ad,Datasheets & CAD Models,8406,282,10183.63,3.0,19500.0
+Search - High-Speed I/O - US - 029,AG 1,2000000107300,Responsive search ad,Engineered for 224G,8531,520,17227.38,13.0,84500.0
+Search - High-Speed I/O - US - 029,AG 1,2000000107301,Responsive search ad,Ships in 48 Hours,7801,227,11151.36,8.0,52000.0
+Search - High-Speed I/O - US - 029,AG 1,2000000107302,Responsive search ad,Datasheets & CAD Models,2023,131,5074.94,6.0,39000.0
+Search - High-Speed I/O - US - 029,AG 2,2000000107310,Responsive search ad,Ships in 48 Hours,12520,563,28551.04,30.0,195000.0
+Search - High-Speed I/O - US - 029,AG 2,2000000107311,Responsive search ad,Request a Sample,6294,343,10377.25,10.0,65000.0
+Search - High-Speed I/O - US - 029,AG 2,2000000107312,Responsive search ad,Ships in 48 Hours,5231,279,10771.07,12.0,78000.0
+Search - Power - Germany - 030,AG 1,2000000111000,Responsive search ad,Ships in 48 Hours,9903,679,19510.25,27.0,175500.0
+Search - Power - Germany - 030,AG 1,2000000111001,Responsive search ad,Engineered for 224G,33616,750,18934.64,22.0,143000.0
+Search - Power - Germany - 030,AG 1,2000000111002,Responsive search ad,Datasheets & CAD Models,20826,593,19848.79,18.0,117000.0
+Search - Power - Germany - 030,AG 2,2000000111010,Responsive search ad,Ships in 48 Hours,5281,333,10931.98,18.0,117000.0
+Search - Power - Germany - 030,AG 2,2000000111011,Responsive search ad,Request a Sample,15332,725,27962.57,40.0,260000.0
+Search - Power - Germany - 030,AG 2,2000000111012,Responsive search ad,Engineered for 224G,14521,629,33802.25,28.0,182000.0
+Search - RF - Germany - 031,AG 1,2000000114700,Responsive search ad,Request a Sample,22600,726,18877.93,46.0,299000.0
+Search - RF - Germany - 031,AG 1,2000000114701,Responsive search ad,Request a Sample,6981,287,14534.8,14.0,91000.0
+Search - RF - Germany - 031,AG 1,2000000114702,Responsive search ad,Request a Sample,24908,538,23401.29,28.0,182000.0
+Search - RF - Germany - 031,AG 2,2000000114710,Responsive search ad,Datasheets & CAD Models,14369,751,20916.34,31.0,201500.0
+Search - RF - Germany - 031,AG 2,2000000114711,Responsive search ad,Engineered for 224G,21142,644,35141.97,46.0,299000.0
+Search - RF - Germany - 031,AG 2,2000000114712,Responsive search ad,Ships in 48 Hours,2742,90,4551.92,2.0,13000.0
+Search - Sensors - Germany - 032,AG 1,2000000118400,Responsive search ad,Engineered for 224G,5398,228,8553.01,13.0,84500.0
+Search - Sensors - Germany - 032,AG 1,2000000118401,Responsive search ad,Request a Sample,12394,751,30420.82,39.0,253500.0
+Search - Sensors - Germany - 032,AG 1,2000000118402,Responsive search ad,Request a Sample,7350,427,16297.21,4.0,26000.0
+Search - Sensors - Germany - 032,AG 2,2000000118410,Responsive search ad,Datasheets & CAD Models,16692,601,26885.86,28.0,182000.0
+Search - Sensors - Germany - 032,AG 2,2000000118411,Responsive search ad,Ships in 48 Hours,17361,826,38526.75,23.0,149500.0
+Search - Sensors - Germany - 032,AG 2,2000000118412,Responsive search ad,Request a Sample,9612,635,31301.45,12.0,78000.0
+Search - Industrial - China - 033,AG 1,2000000122100,Responsive search ad,Ships in 48 Hours,21665,500,15948.49,24.0,156000.0
+Search - Industrial - China - 033,AG 1,2000000122101,Responsive search ad,Request a Sample,16310,867,29801.43,68.0,442000.0
+Search - Industrial - China - 033,AG 1,2000000122102,Responsive search ad,Datasheets & CAD Models,10189,676,33573.66,37.0,240500.0
+Search - Industrial - China - 033,AG 2,2000000122110,Responsive search ad,Request a Sample,9795,628,23469.77,14.0,91000.0
+Search - Industrial - China - 033,AG 2,2000000122111,Responsive search ad,Datasheets & CAD Models,6662,306,9904.15,4.0,26000.0
+Search - Industrial - China - 033,AG 2,2000000122112,Responsive search ad,Datasheets & CAD Models,8468,527,27369.3,12.0,78000.0
+Search - Automotive - China - 034,AG 1,2000000125800,Responsive search ad,Request a Sample,3861,242,7285.96,19.0,123500.0
+Search - Automotive - China - 034,AG 1,2000000125801,Responsive search ad,Engineered for 224G,4176,229,7157.25,17.0,110500.0
+Search - Automotive - China - 034,AG 1,2000000125802,Responsive search ad,Engineered for 224G,32861,869,33025.24,30.0,195000.0
+Search - Automotive - China - 034,AG 2,2000000125810,Responsive search ad,Request a Sample,5727,380,14247.98,19.0,123500.0
+Search - Automotive - China - 034,AG 2,2000000125811,Responsive search ad,Request a Sample,12266,824,38544.69,13.0,84500.0
+Search - Automotive - China - 034,AG 2,2000000125812,Responsive search ad,Engineered for 224G,1946,89,4354.83,1.0,6500.0
+Search - Datacom - China - 035,AG 1,2000000129500,Responsive search ad,Engineered for 224G,3538,151,5890.59,5.0,32500.0
+Search - Datacom - China - 035,AG 1,2000000129501,Responsive search ad,Ships in 48 Hours,6089,380,14110.2,35.0,227500.0
+Search - Datacom - China - 035,AG 1,2000000129502,Responsive search ad,Engineered for 224G,27328,782,26125.76,35.0,227500.0
+Search - Datacom - China - 035,AG 2,2000000129510,Responsive search ad,Ships in 48 Hours,12299,469,17419.97,14.0,91000.0
+Search - Datacom - China - 035,AG 2,2000000129511,Responsive search ad,Datasheets & CAD Models,37067,823,33530.03,47.0,305500.0
+Search - Datacom - China - 035,AG 2,2000000129512,Responsive search ad,Request a Sample,19095,836,41441.91,18.0,117000.0
+Search - Connectors - Japan - 036,AG 1,2000000133200,Responsive search ad,Request a Sample,2918,158,5381.25,13.0,84500.0
+Search - Connectors - Japan - 036,AG 1,2000000133201,Responsive search ad,Datasheets & CAD Models,8683,460,21435.93,14.0,91000.0
+Search - Connectors - Japan - 036,AG 1,2000000133202,Responsive search ad,Datasheets & CAD Models,20320,874,34977.78,36.0,234000.0
+Search - Connectors - Japan - 036,AG 2,2000000133210,Responsive search ad,Datasheets & CAD Models,2196,140,7562.1,6.0,39000.0
+Search - Connectors - Japan - 036,AG 2,2000000133211,Responsive search ad,Datasheets & CAD Models,8506,282,8848.95,14.0,91000.0
+Search - Connectors - Japan - 036,AG 2,2000000133212,Responsive search ad,Ships in 48 Hours,20768,552,20698.32,16.0,104000.0
+Search - Cables - Japan - 037,AG 1,2000000136900,Responsive search ad,Request a Sample,4944,302,7869.58,5.0,32500.0
+Search - Cables - Japan - 037,AG 1,2000000136901,Responsive search ad,Ships in 48 Hours,3365,235,6009.71,22.0,143000.0
+Search - Cables - Japan - 037,AG 1,2000000136902,Responsive search ad,Request a Sample,4436,199,8080.06,12.0,78000.0
+Search - Cables - Japan - 037,AG 2,2000000136910,Responsive search ad,Engineered for 224G,7833,319,13129.01,14.0,91000.0
+Search - Cables - Japan - 037,AG 2,2000000136911,Responsive search ad,Request a Sample,15104,492,21713.88,26.0,169000.0
+Search - Cables - Japan - 037,AG 2,2000000136912,Responsive search ad,Ships in 48 Hours,6985,445,21907.01,15.0,97500.0
+Search - Fiber Optics - Japan - 038,AG 1,2000000140600,Responsive search ad,Datasheets & CAD Models,5808,316,9979.57,21.0,136500.0
+Search - Fiber Optics - Japan - 038,AG 1,2000000140601,Responsive search ad,Datasheets & CAD Models,8939,311,8883.59,16.0,104000.0
+Search - Fiber Optics - Japan - 038,AG 1,2000000140602,Responsive search ad,Engineered for 224G,1935,110,4917.92,1.0,6500.0
+Search - Fiber Optics - Japan - 038,AG 2,2000000140610,Responsive search ad,Request a Sample,13430,745,27178.62,42.0,273000.0
+Search - Fiber Optics - Japan - 038,AG 2,2000000140611,Responsive search ad,Datasheets & CAD Models,30124,617,26797.68,10.0,65000.0
+Search - Fiber Optics - Japan - 038,AG 2,2000000140612,Responsive search ad,Request a Sample,15871,393,18450.9,30.0,195000.0
+Search - Antennas - UK - 039,AG 1,2000000144300,Responsive search ad,Ships in 48 Hours,11321,664,36466.49,41.0,266500.0
+Search - Antennas - UK - 039,AG 1,2000000144301,Responsive search ad,Datasheets & CAD Models,5974,400,18329.91,16.0,104000.0
+Search - Antennas - UK - 039,AG 1,2000000144302,Responsive search ad,Request a Sample,11306,656,28431.03,17.0,110500.0
+Search - Antennas - UK - 039,AG 2,2000000144310,Responsive search ad,Datasheets & CAD Models,2896,191,8748.34,4.0,26000.0
+Search - Antennas - UK - 039,AG 2,2000000144311,Responsive search ad,Datasheets & CAD Models,9048,629,30786.2,25.0,162500.0
+Search - Antennas - UK - 039,AG 2,2000000144312,Responsive search ad,Ships in 48 Hours,22957,539,15228.41,11.0,71500.0
+Search - Backplane - UK - 040,AG 1,2000000148000,Responsive search ad,Ships in 48 Hours,5441,201,11032.56,17.0,110500.0
+Search - Backplane - UK - 040,AG 1,2000000148001,Responsive search ad,Engineered for 224G,18118,787,28761.65,36.0,234000.0
+Search - Backplane - UK - 040,AG 1,2000000148002,Responsive search ad,Engineered for 224G,15032,812,27414.47,28.0,182000.0
+Search - Backplane - UK - 040,AG 2,2000000148010,Responsive search ad,Datasheets & CAD Models,27582,554,16969.96,32.0,208000.0
+Search - Backplane - UK - 040,AG 2,2000000148011,Responsive search ad,Datasheets & CAD Models,11227,708,28073.77,54.0,351000.0
+Search - Backplane - UK - 040,AG 2,2000000148012,Responsive search ad,Engineered for 224G,9163,546,29991.85,33.0,214500.0
+Search - High-Speed I/O - UK - 041,AG 1,2000000151700,Responsive search ad,Ships in 48 Hours,18407,890,28147.06,47.0,305500.0
+Search - High-Speed I/O - UK - 041,AG 1,2000000151701,Responsive search ad,Datasheets & CAD Models,9662,432,15387.58,29.0,188500.0
+Search - High-Speed I/O - UK - 041,AG 1,2000000151702,Responsive search ad,Request a Sample,3678,246,10971.6,9.0,58500.0
+Search - High-Speed I/O - UK - 041,AG 2,2000000151710,Responsive search ad,Datasheets & CAD Models,8771,474,15208.84,42.0,273000.0
+Search - High-Speed I/O - UK - 041,AG 2,2000000151711,Responsive search ad,Engineered for 224G,17901,795,36423.63,19.0,123500.0
+Search - High-Speed I/O - UK - 041,AG 2,2000000151712,Responsive search ad,Engineered for 224G,15348,521,27337.53,10.0,65000.0
+Search - Power - France - 042,AG 1,2000000155400,Responsive search ad,Datasheets & CAD Models,9253,441,13846.67,18.0,117000.0
+Search - Power - France - 042,AG 1,2000000155401,Responsive search ad,Ships in 48 Hours,6203,405,17569.23,11.0,71500.0
+Search - Power - France - 042,AG 1,2000000155402,Responsive search ad,Engineered for 224G,11032,722,26042.57,27.0,175500.0
+Search - Power - France - 042,AG 2,2000000155410,Responsive search ad,Engineered for 224G,11283,731,28137.99,20.0,130000.0
+Search - Power - France - 042,AG 2,2000000155411,Responsive search ad,Ships in 48 Hours,18021,449,20070.45,8.0,52000.0
+Search - Power - France - 042,AG 2,2000000155412,Responsive search ad,Request a Sample,4908,322,10663.47,17.0,110500.0
+Search - RF - France - 043,AG 1,2000000159100,Responsive search ad,Datasheets & CAD Models,17669,483,12093.19,25.0,162500.0
+Search - RF - France - 043,AG 1,2000000159101,Responsive search ad,Request a Sample,25918,833,28221.38,30.0,195000.0
+Search - RF - France - 043,AG 1,2000000159102,Responsive search ad,Ships in 48 Hours,30603,812,32430.42,16.0,104000.0
+Search - RF - France - 043,AG 2,2000000159110,Responsive search ad,Datasheets & CAD Models,31173,701,20241.0,15.0,97500.0
+Search - RF - France - 043,AG 2,2000000159111,Responsive search ad,Datasheets & CAD Models,15465,836,42459.49,22.0,143000.0
+Search - RF - France - 043,AG 2,2000000159112,Responsive search ad,Datasheets & CAD Models,14623,548,15439.41,38.0,247000.0
+Search - Sensors - France - 044,AG 1,2000000162800,Responsive search ad,Datasheets & CAD Models,26245,827,33657.11,12.0,78000.0
+Search - Sensors - France - 044,AG 1,2000000162801,Responsive search ad,Engineered for 224G,25975,705,27412.58,47.0,305500.0
+Search - Sensors - France - 044,AG 1,2000000162802,Responsive search ad,Engineered for 224G,7804,478,23136.55,14.0,91000.0
+Search - Sensors - France - 044,AG 2,2000000162810,Responsive search ad,Engineered for 224G,10281,718,24712.41,21.0,136500.0
+Search - Sensors - France - 044,AG 2,2000000162811,Responsive search ad,Datasheets & CAD Models,9687,615,17983.45,18.0,117000.0
+Search - Sensors - France - 044,AG 2,2000000162812,Responsive search ad,Request a Sample,5167,254,6675.27,7.0,45500.0
+Search - Industrial - Mexico - 045,AG 1,2000000166500,Responsive search ad,Datasheets & CAD Models,8023,241,11418.72,10.0,65000.0
+Search - Industrial - Mexico - 045,AG 1,2000000166501,Responsive search ad,Request a Sample,4296,273,12329.59,11.0,71500.0
+Search - Industrial - Mexico - 045,AG 1,2000000166502,Responsive search ad,Ships in 48 Hours,9216,545,28899.67,7.0,45500.0
+Search - Industrial - Mexico - 045,AG 2,2000000166510,Responsive search ad,Request a Sample,12527,871,22530.65,41.0,266500.0
+Search - Industrial - Mexico - 045,AG 2,2000000166511,Responsive search ad,Request a Sample,10714,382,16995.74,23.0,149500.0
+Search - Industrial - Mexico - 045,AG 2,2000000166512,Responsive search ad,Datasheets & CAD Models,8882,367,10413.05,24.0,156000.0
+Search - Automotive - Mexico - 046,AG 1,2000000170200,Responsive search ad,Datasheets & CAD Models,6737,298,9828.27,18.0,117000.0
+Search - Automotive - Mexico - 046,AG 1,2000000170201,Responsive search ad,Request a Sample,8406,488,17429.27,10.0,65000.0
+Search - Automotive - Mexico - 046,AG 1,2000000170202,Responsive search ad,Engineered for 224G,12566,828,42628.47,58.0,377000.0
+Search - Automotive - Mexico - 046,AG 2,2000000170210,Responsive search ad,Ships in 48 Hours,9362,407,19660.43,17.0,110500.0
+Search - Automotive - Mexico - 046,AG 2,2000000170211,Responsive search ad,Engineered for 224G,8812,592,30988.83,21.0,136500.0
+Search - Automotive - Mexico - 046,AG 2,2000000170212,Responsive search ad,Engineered for 224G,24585,693,34937.61,25.0,162500.0
+Search - Datacom - Mexico - 047,AG 1,2000000173900,Responsive search ad,Ships in 48 Hours,13747,777,31158.19,35.0,227500.0
+Search - Datacom - Mexico - 047,AG 1,2000000173901,Responsive search ad,Ships in 48 Hours,4340,133,3430.56,0.0,0.0
+Search - Datacom - Mexico - 047,AG 1,2000000173902,Responsive search ad,Engineered for 224G,2187,124,6228.27,5.0,32500.0
+Search - Datacom - Mexico - 047,AG 2,2000000173910,Responsive search ad,Engineered for 224G,16288,848,37487.61,55.0,357500.0
+Search - Datacom - Mexico - 047,AG 2,2000000173911,Responsive search ad,Ships in 48 Hours,19606,655,25170.86,35.0,227500.0
+Search - Datacom - Mexico - 047,AG 2,2000000173912,Responsive search ad,Datasheets & CAD Models,3791,240,8561.75,11.0,71500.0
+Search - Connectors - India - 048,AG 1,2000000177600,Responsive search ad,Engineered for 224G,8477,423,17141.63,9.0,58500.0
+Search - Connectors - India - 048,AG 1,2000000177601,Responsive search ad,Request a Sample,2109,131,4437.55,4.0,26000.0
+Search - Connectors - India - 048,AG 1,2000000177602,Responsive search ad,Request a Sample,14378,621,19462.56,32.0,208000.0
+Search - Connectors - India - 048,AG 2,2000000177610,Responsive search ad,Request a Sample,7287,491,24372.23,10.0,65000.0
+Search - Connectors - India - 048,AG 2,2000000177611,Responsive search ad,Datasheets & CAD Models,12101,782,38665.37,11.0,71500.0
+Search - Connectors - India - 048,AG 2,2000000177612,Responsive search ad,Ships in 48 Hours,21576,472,21033.46,31.0,201500.0
+Search - Cables - India - 049,AG 1,2000000181300,Responsive search ad,Datasheets & CAD Models,16894,737,26675.31,37.0,240500.0
+Search - Cables - India - 049,AG 1,2000000181301,Responsive search ad,Request a Sample,26293,620,26946.63,38.0,247000.0
+Search - Cables - India - 049,AG 1,2000000181302,Responsive search ad,Datasheets & CAD Models,24546,834,39721.3,47.0,305500.0
+Search - Cables - India - 049,AG 2,2000000181310,Responsive search ad,Ships in 48 Hours,21630,688,23796.79,38.0,247000.0
+Search - Cables - India - 049,AG 2,2000000181311,Responsive search ad,Request a Sample,11989,786,33591.19,27.0,175500.0
+Search - Cables - India - 049,AG 2,2000000181312,Responsive search ad,Datasheets & CAD Models,11612,715,21963.85,28.0,182000.0
+Search - Fiber Optics - India - 050,AG 1,2000000185000,Responsive search ad,Datasheets & CAD Models,4403,168,7886.74,8.0,52000.0
+Search - Fiber Optics - India - 050,AG 1,2000000185001,Responsive search ad,Request a Sample,11159,767,24311.12,31.0,201500.0
+Search - Fiber Optics - India - 050,AG 1,2000000185002,Responsive search ad,Ships in 48 Hours,12759,328,17295.35,7.0,45500.0
+Search - Fiber Optics - India - 050,AG 2,2000000185010,Responsive search ad,Engineered for 224G,11069,427,20053.48,12.0,78000.0
+Search - Fiber Optics - India - 050,AG 2,2000000185011,Responsive search ad,Ships in 48 Hours,10970,678,31511.79,43.0,279500.0
+Search - Fiber Optics - India - 050,AG 2,2000000185012,Responsive search ad,Engineered for 224G,1620,97,3340.45,5.0,32500.0
+Search - Antennas - US - 051,AG 1,2000000188700,Responsive search ad,Datasheets & CAD Models,4697,215,7729.04,1.0,6500.0
+Search - Antennas - US - 051,AG 1,2000000188701,Responsive search ad,Request a Sample,9478,457,20330.5,23.0,149500.0
+Search - Antennas - US - 051,AG 1,2000000188702,Responsive search ad,Engineered for 224G,10992,697,37535.55,39.0,253500.0
+Search - Antennas - US - 051,AG 2,2000000188710,Responsive search ad,Engineered for 224G,7053,225,12003.55,14.0,91000.0
+Search - Antennas - US - 051,AG 2,2000000188711,Responsive search ad,Engineered for 224G,10156,560,24652.88,38.0,247000.0
+Search - Antennas - US - 051,AG 2,2000000188712,Responsive search ad,Ships in 48 Hours,8702,458,24443.54,6.0,39000.0
+Search - Backplane - US - 052,AG 1,2000000192400,Responsive search ad,Request a Sample,4407,258,13560.72,23.0,149500.0
+Search - Backplane - US - 052,AG 1,2000000192401,Responsive search ad,Ships in 48 Hours,8309,416,11821.89,9.0,58500.0
+Search - Backplane - US - 052,AG 1,2000000192402,Responsive search ad,Ships in 48 Hours,4998,235,6934.63,1.0,6500.0
+Search - Backplane - US - 052,AG 2,2000000192410,Responsive search ad,Datasheets & CAD Models,3537,223,6502.1,8.0,52000.0
+Search - Backplane - US - 052,AG 2,2000000192411,Responsive search ad,Datasheets & CAD Models,18432,732,38121.86,13.0,84500.0
+Search - Backplane - US - 052,AG 2,2000000192412,Responsive search ad,Engineered for 224G,12693,473,20879.19,27.0,175500.0
+Search - High-Speed I/O - US - 053,AG 1,2000000196100,Responsive search ad,Datasheets & CAD Models,10280,427,23320.28,14.0,91000.0
+Search - High-Speed I/O - US - 053,AG 1,2000000196101,Responsive search ad,Engineered for 224G,14096,452,18849.7,24.0,156000.0
+Search - High-Speed I/O - US - 053,AG 1,2000000196102,Responsive search ad,Request a Sample,8875,620,19222.33,49.0,318500.0
+Search - High-Speed I/O - US - 053,AG 2,2000000196110,Responsive search ad,Ships in 48 Hours,17369,877,25634.65,66.0,429000.0
+Search - High-Speed I/O - US - 053,AG 2,2000000196111,Responsive search ad,Request a Sample,11991,795,38204.36,19.0,123500.0
+Search - High-Speed I/O - US - 053,AG 2,2000000196112,Responsive search ad,Request a Sample,21414,563,22088.76,31.0,201500.0
+Search - Power - Germany - 054,AG 1,2000000199800,Responsive search ad,Ships in 48 Hours,7706,522,24997.74,10.0,65000.0
+Search - Power - Germany - 054,AG 1,2000000199801,Responsive search ad,Datasheets & CAD Models,4949,187,8010.25,11.0,71500.0
+Search - Power - Germany - 054,AG 1,2000000199802,Responsive search ad,Datasheets & CAD Models,8953,620,22949.92,44.0,286000.0
+Search - Power - Germany - 054,AG 2,2000000199810,Responsive search ad,Engineered for 224G,22311,515,20443.58,27.0,175500.0
+Search - Power - Germany - 054,AG 2,2000000199811,Responsive search ad,Datasheets & CAD Models,9220,575,27725.42,34.0,221000.0
+Search - Power - Germany - 054,AG 2,2000000199812,Responsive search ad,Ships in 48 Hours,2899,167,6950.48,4.0,26000.0
+Search - RF - Germany - 055,AG 1,2000000203500,Responsive search ad,Engineered for 224G,9216,494,18256.09,20.0,130000.0
+Search - RF - Germany - 055,AG 1,2000000203501,Responsive search ad,Datasheets & CAD Models,8641,543,19986.84,28.0,182000.0
+Search - RF - Germany - 055,AG 1,2000000203502,Responsive search ad,Ships in 48 Hours,21518,879,38392.53,20.0,130000.0
+Search - RF - Germany - 055,AG 2,2000000203510,Responsive search ad,Engineered for 224G,6575,259,7334.17,12.0,78000.0
+Search - RF - Germany - 055,AG 2,2000000203511,Responsive search ad,Request a Sample,24477,725,19755.06,15.0,97500.0
+Search - RF - Germany - 055,AG 2,2000000203512,Responsive search ad,Engineered for 224G,16143,588,16855.65,49.0,318500.0
+Search - Sensors - Germany - 056,AG 1,2000000207200,Responsive search ad,Datasheets & CAD Models,4111,276,9100.89,15.0,97500.0
+Search - Sensors - Germany - 056,AG 1,2000000207201,Responsive search ad,Ships in 48 Hours,10164,233,8259.81,6.0,39000.0
+Search - Sensors - Germany - 056,AG 1,2000000207202,Responsive search ad,Request a Sample,5791,370,16828.35,7.0,45500.0
+Search - Sensors - Germany - 056,AG 2,2000000207210,Responsive search ad,Ships in 48 Hours,15580,562,28670.85,10.0,65000.0
+Search - Sensors - Germany - 056,AG 2,2000000207211,Responsive search ad,Request a Sample,6583,397,14268.88,12.0,78000.0
+Search - Sensors - Germany - 056,AG 2,2000000207212,Responsive search ad,Request a Sample,15353,623,34237.68,43.0,279500.0
+Search - Industrial - China - 057,AG 1,2000000210900,Responsive search ad,Request a Sample,14201,746,34819.04,37.0,240500.0
+Search - Industrial - China - 057,AG 1,2000000210901,Responsive search ad,Datasheets & CAD Models,18901,498,26592.71,15.0,97500.0
+Search - Industrial - China - 057,AG 1,2000000210902,Responsive search ad,Datasheets & CAD Models,6836,375,11591.93,11.0,71500.0
+Search - Industrial - China - 057,AG 2,2000000210910,Responsive search ad,Engineered for 224G,11166,758,35834.61,26.0,169000.0
+Search - Industrial - China - 057,AG 2,2000000210911,Responsive search ad,Engineered for 224G,7858,276,8830.54,15.0,97500.0
+Search - Industrial - China - 057,AG 2,2000000210912,Responsive search ad,Ships in 48 Hours,34368,834,34208.9,22.0,143000.0
+Search - Automotive - China - 058,AG 1,2000000214600,Responsive search ad,Datasheets & CAD Models,3345,219,10204.42,22.0,143000.0
+Search - Automotive - China - 058,AG 1,2000000214601,Responsive search ad,Ships in 48 Hours,6023,167,5554.41,12.0,78000.0
+Search - Automotive - China - 058,AG 1,2000000214602,Responsive search ad,Datasheets & CAD Models,11090,598,28112.14,34.0,221000.0
+Search - Automotive - China - 058,AG 2,2000000214610,Responsive search ad,Request a Sample,7334,283,8392.42,19.0,123500.0
+Search - Automotive - China - 058,AG 2,2000000214611,Responsive search ad,Request a Sample,8913,533,13998.91,17.0,110500.0
+Search - Automotive - China - 058,AG 2,2000000214612,Responsive search ad,Datasheets & CAD Models,33001,838,42099.65,9.0,58500.0
+Search - Datacom - China - 059,AG 1,2000000218300,Responsive search ad,Request a Sample,17390,769,31273.81,46.0,299000.0
+Search - Datacom - China - 059,AG 1,2000000218301,Responsive search ad,Ships in 48 Hours,15011,356,17802.22,9.0,58500.0
+Search - Datacom - China - 059,AG 1,2000000218302,Responsive search ad,Engineered for 224G,16125,833,24387.71,64.0,416000.0
+Search - Datacom - China - 059,AG 2,2000000218310,Responsive search ad,Datasheets & CAD Models,27417,582,16741.13,16.0,104000.0
+Search - Datacom - China - 059,AG 2,2000000218311,Responsive search ad,Engineered for 224G,7987,482,18418.76,22.0,143000.0
+Search - Datacom - China - 059,AG 2,2000000218312,Responsive search ad,Request a Sample,3204,99,2561.22,3.0,19500.0

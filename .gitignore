@@ -1,0 +1,32 @@
+# --- Secrets: never commit ---
+.env
+*.env
+credentials*.json
+token*.json
+client_secret*.json
+service_account*.json
+google-ads.yaml
+.streamlit/secrets.toml
+
+# --- Real campaign data: never commit ---
+# The app reads data/sample/ (anonymised, committed) when nothing else is provided.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/targets/*
+!data/targets/campaign_targets_TEMPLATE.csv
+*.xlsx
+*.parquet
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# --- OS ---
+.DS_Store
+Thumbs.db

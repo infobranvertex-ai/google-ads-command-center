@@ -1,0 +1,4 @@
+campaign_id,campaign_name,planned_monthly_spend,target_cpa,target_roas,owner_specialist,primary_geo
+123456789,Search - Connectors - India,500000,2500,0,Specialist A,India
+123456790,PMax - Industrial Solutions,800000,0,4.0,Specialist B,US
+123456791,Demand Gen - New Products,300000,3000,0,Specialist C,Germany

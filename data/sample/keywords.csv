@@ -1,0 +1,361 @@
+Campaign,Ad group,Keyword,Match type,Impr.,Clicks,Cost,Conversions,Conv. value,Quality Score
+Search - Connectors - India - 000,AG 1,board to board connector,Exact,2276,117,6465.75,11.0,71500.0,2
+Search - Connectors - India - 000,AG 2,high speed backplane connector,Phrase,13991,568,30381.62,36.0,234000.0,9
+Search - Connectors - India - 000,AG 3,fiber optic patch cord,Broad,9432,548,16927.02,27.0,175500.0,3
+Search - Connectors - India - 000,AG 1,rf coaxial cable,Exact,5735,98,4084.63,4.0,26000.0,8
+Search - Connectors - India - 000,AG 2,sma connector,Phrase,10721,571,28084.72,28.0,182000.0,7
+Search - Connectors - India - 000,AG 3,power connector 100a,Broad,3511,180,8956.13,7.0,45500.0,8
+Search - Cables - India - 001,AG 1,high speed backplane connector,Exact,9135,596,22357.51,24.0,156000.0,7
+Search - Cables - India - 001,AG 2,fiber optic patch cord,Phrase,1686,128,5771.49,6.0,39000.0,7
+Search - Cables - India - 001,AG 3,rf coaxial cable,Broad,7647,481,16553.98,19.0,123500.0,4
+Search - Cables - India - 001,AG 1,sma connector,Exact,13278,316,9190.32,9.0,58500.0,8
+Search - Cables - India - 001,AG 2,power connector 100a,Phrase,7788,413,17218.21,15.0,97500.0,5
+Search - Cables - India - 001,AG 3,pcie gen 6 connector,Broad,3224,236,7319.48,11.0,71500.0,8
+Search - Fiber Optics - India - 002,AG 1,fiber optic patch cord,Exact,5491,396,21693.94,15.0,97500.0,5
+Search - Fiber Optics - India - 002,AG 2,rf coaxial cable,Phrase,3660,124,4077.94,4.0,26000.0,5
+Search - Fiber Optics - India - 002,AG 3,sma connector,Broad,19362,516,30687.84,22.0,143000.0,5
+Search - Fiber Optics - India - 002,AG 1,power connector 100a,Exact,1503,117,3954.18,5.0,32500.0,8
+Search - Fiber Optics - India - 002,AG 2,pcie gen 6 connector,Phrase,3668,154,8041.81,7.0,45500.0,9
+Search - Fiber Optics - India - 002,AG 3,usb type c receptacle,Broad,9144,378,15119.67,9.0,58500.0,9
+Search - Antennas - US - 003,AG 1,rf coaxial cable,Exact,4927,373,15562.91,13.0,84500.0,3
+Search - Antennas - US - 003,AG 2,sma connector,Phrase,20436,293,8901.42,11.0,71500.0,4
+Search - Antennas - US - 003,AG 3,power connector 100a,Broad,33002,542,16567.13,28.0,182000.0,2
+Search - Antennas - US - 003,AG 1,pcie gen 6 connector,Exact,14833,525,19725.92,25.0,162500.0,4
+Search - Antennas - US - 003,AG 2,usb type c receptacle,Phrase,30579,553,25747.17,14.0,91000.0,9
+Search - Antennas - US - 003,AG 3,m12 connector,Broad,12982,520,23785.24,25.0,162500.0,3
+Search - Backplane - US - 004,AG 1,sma connector,Exact,8702,572,25647.66,22.0,143000.0,5
+Search - Backplane - US - 004,AG 2,power connector 100a,Phrase,5794,248,12693.01,12.0,78000.0,5
+Search - Backplane - US - 004,AG 3,pcie gen 6 connector,Broad,8993,366,20810.62,7.0,45500.0,5
+Search - Backplane - US - 004,AG 1,usb type c receptacle,Exact,34355,508,19014.82,20.0,130000.0,5
+Search - Backplane - US - 004,AG 2,m12 connector,Phrase,2868,73,1844.47,1.0,6500.0,8
+Search - Backplane - US - 004,AG 3,qsfp cage,Broad,7168,468,20976.86,11.0,71500.0,9
+Search - High-Speed I/O - US - 005,AG 1,power connector 100a,Exact,7445,331,10409.53,22.0,143000.0,9
+Search - High-Speed I/O - US - 005,AG 2,pcie gen 6 connector,Phrase,5174,284,10138.32,13.0,84500.0,3
+Search - High-Speed I/O - US - 005,AG 3,usb type c receptacle,Broad,16962,414,17086.6,18.0,117000.0,3
+Search - High-Speed I/O - US - 005,AG 1,m12 connector,Exact,36007,458,14137.52,16.0,104000.0,9
+Search - High-Speed I/O - US - 005,AG 2,qsfp cage,Phrase,17150,214,11965.13,8.0,52000.0,2
+Search - High-Speed I/O - US - 005,AG 3,free connector datasheet,Broad,17252,532,31121.81,0.0,0.0,8
+Search - Power - Germany - 006,AG 1,pcie gen 6 connector,Exact,4107,69,2216.05,5.0,32500.0,6
+Search - Power - Germany - 006,AG 2,usb type c receptacle,Phrase,10213,534,31254.65,24.0,156000.0,7
+Search - Power - Germany - 006,AG 3,m12 connector,Broad,1398,103,5386.87,5.0,32500.0,7
+Search - Power - Germany - 006,AG 1,qsfp cage,Exact,12074,514,14110.41,18.0,117000.0,5
+Search - Power - Germany - 006,AG 2,free connector datasheet,Phrase,2549,110,4288.22,0.0,0.0,7
+Search - Power - Germany - 006,AG 3,connector jobs,Broad,8112,430,20897.85,0.0,0.0,4
+Search - RF - Germany - 007,AG 1,usb type c receptacle,Exact,7363,421,18380.96,15.0,97500.0,2
+Search - RF - Germany - 007,AG 2,m12 connector,Phrase,10018,348,11905.46,20.0,130000.0,6
+Search - RF - Germany - 007,AG 3,qsfp cage,Broad,369,24,1244.07,0.0,0.0,7
+Search - RF - Germany - 007,AG 1,free connector datasheet,Exact,9569,414,12102.56,0.0,0.0,4
+Search - RF - Germany - 007,AG 2,connector jobs,Phrase,1087,46,1230.74,0.0,0.0,2
+Search - RF - Germany - 007,AG 3,how to crimp connector,Broad,2444,189,5902.84,0.0,0.0,7
+Search - Sensors - Germany - 008,AG 1,m12 connector,Exact,6210,303,12204.22,13.0,84500.0,2
+Search - Sensors - Germany - 008,AG 2,qsfp cage,Phrase,18722,438,11612.8,15.0,97500.0,8
+Search - Sensors - Germany - 008,AG 3,free connector datasheet,Broad,7525,557,20565.77,0.0,0.0,7
+Search - Sensors - Germany - 008,AG 1,connector jobs,Exact,9001,486,23923.19,0.0,0.0,8
+Search - Sensors - Germany - 008,AG 2,how to crimp connector,Phrase,4750,101,5490.11,0.0,0.0,6
+Search - Sensors - Germany - 008,AG 3,cheap cables,Broad,10287,420,16820.87,0.0,0.0,8
+Search - Industrial - China - 009,AG 1,qsfp cage,Exact,4131,54,2907.84,3.0,19500.0,5
+Search - Industrial - China - 009,AG 2,free connector datasheet,Phrase,4837,283,7787.18,0.0,0.0,2
+Search - Industrial - China - 009,AG 3,connector jobs,Broad,6925,165,6514.33,0.0,0.0,7
+Search - Industrial - China - 009,AG 1,how to crimp connector,Exact,11192,394,12903.52,0.0,0.0,8
+Search - Industrial - China - 009,AG 2,cheap cables,Phrase,13492,494,12400.23,0.0,0.0,8
+Search - Industrial - China - 009,AG 3,ip67 circular connector,Broad,2048,141,7187.79,6.0,39000.0,3
+Search - Automotive - China - 010,AG 1,free connector datasheet,Exact,27594,438,17160.72,0.0,0.0,8
+Search - Automotive - China - 010,AG 2,connector jobs,Phrase,2213,162,6323.35,0.0,0.0,2
+Search - Automotive - China - 010,AG 3,how to crimp connector,Broad,12884,590,19532.98,0.0,0.0,5
+Search - Automotive - China - 010,AG 1,cheap cables,Exact,4861,360,18155.23,0.0,0.0,2
+Search - Automotive - China - 010,AG 2,ip67 circular connector,Phrase,4566,338,9785.85,12.0,78000.0,6
+Search - Automotive - China - 010,AG 3,board to board connector,Broad,11541,413,16823.6,15.0,97500.0,2
+Search - Datacom - China - 011,AG 1,connector jobs,Exact,19277,469,14795.91,0.0,0.0,6
+Search - Datacom - China - 011,AG 2,how to crimp connector,Phrase,3169,197,7617.17,0.0,0.0,7
+Search - Datacom - China - 011,AG 3,cheap cables,Broad,2818,165,4649.22,0.0,0.0,7
+Search - Datacom - China - 011,AG 1,ip67 circular connector,Exact,10047,585,27957.71,17.0,110500.0,5
+Search - Datacom - China - 011,AG 2,board to board connector,Phrase,12558,187,7883.95,11.0,71500.0,3
+Search - Datacom - China - 011,AG 3,high speed backplane connector,Broad,5412,279,14252.0,8.0,52000.0,9
+Search - Connectors - Japan - 012,AG 1,how to crimp connector,Exact,11486,564,26014.33,0.0,0.0,6
+Search - Connectors - Japan - 012,AG 2,cheap cables,Phrase,2183,120,5385.69,0.0,0.0,4
+Search - Connectors - Japan - 012,AG 3,ip67 circular connector,Broad,4543,316,13859.81,18.0,117000.0,9
+Search - Connectors - Japan - 012,AG 1,board to board connector,Exact,17257,562,14176.2,17.0,110500.0,2
+Search - Connectors - Japan - 012,AG 2,high speed backplane connector,Phrase,825,51,1739.15,1.0,6500.0,5
+Search - Connectors - Japan - 012,AG 3,fiber optic patch cord,Broad,18586,510,19524.01,17.0,110500.0,7
+Search - Cables - Japan - 013,AG 1,cheap cables,Exact,611,31,1786.74,0.0,0.0,9
+Search - Cables - Japan - 013,AG 2,ip67 circular connector,Phrase,19961,464,17913.61,14.0,91000.0,9
+Search - Cables - Japan - 013,AG 3,board to board connector,Broad,3958,131,3535.81,1.0,6500.0,2
+Search - Cables - Japan - 013,AG 1,high speed backplane connector,Exact,6221,372,21010.9,13.0,84500.0,2
+Search - Cables - Japan - 013,AG 2,fiber optic patch cord,Phrase,6337,470,28012.4,18.0,117000.0,8
+Search - Cables - Japan - 013,AG 3,rf coaxial cable,Broad,11203,421,16686.15,16.0,104000.0,9
+Search - Fiber Optics - Japan - 014,AG 1,ip67 circular connector,Exact,2831,79,2958.28,3.0,19500.0,6
+Search - Fiber Optics - Japan - 014,AG 2,board to board connector,Phrase,4370,336,18051.57,18.0,117000.0,8
+Search - Fiber Optics - Japan - 014,AG 3,high speed backplane connector,Broad,21916,260,9189.4,15.0,97500.0,3
+Search - Fiber Optics - Japan - 014,AG 1,fiber optic patch cord,Exact,9263,279,14439.94,13.0,84500.0,9
+Search - Fiber Optics - Japan - 014,AG 2,rf coaxial cable,Phrase,21511,481,18917.07,10.0,65000.0,4
+Search - Fiber Optics - Japan - 014,AG 3,sma connector,Broad,20917,454,26992.24,16.0,104000.0,8
+Search - Antennas - UK - 015,AG 1,board to board connector,Exact,9449,477,16940.29,21.0,136500.0,8
+Search - Antennas - UK - 015,AG 2,high speed backplane connector,Phrase,7820,277,9935.23,10.0,65000.0,2
+Search - Antennas - UK - 015,AG 3,fiber optic patch cord,Broad,28717,573,21142.18,18.0,117000.0,4
+Search - Antennas - UK - 015,AG 1,rf coaxial cable,Exact,3627,215,7205.1,9.0,58500.0,3
+Search - Antennas - UK - 015,AG 2,sma connector,Phrase,3130,211,7346.02,6.0,39000.0,7
+Search - Antennas - UK - 015,AG 3,power connector 100a,Broad,7125,553,30968.34,26.0,169000.0,6
+Search - Backplane - UK - 016,AG 1,high speed backplane connector,Exact,2849,210,10101.51,6.0,39000.0,2
+Search - Backplane - UK - 016,AG 2,fiber optic patch cord,Phrase,2314,115,5426.09,7.0,45500.0,5
+Search - Backplane - UK - 016,AG 3,rf coaxial cable,Broad,29202,432,23244.86,15.0,97500.0,8
+Search - Backplane - UK - 016,AG 1,sma connector,Exact,7163,502,28817.88,13.0,84500.0,7
+Search - Backplane - UK - 016,AG 2,power connector 100a,Phrase,26093,366,11788.84,14.0,91000.0,8
+Search - Backplane - UK - 016,AG 3,pcie gen 6 connector,Broad,7091,389,10523.88,15.0,97500.0,7
+Search - High-Speed I/O - UK - 017,AG 1,fiber optic patch cord,Exact,4233,285,10037.64,8.0,52000.0,6
+Search - High-Speed I/O - UK - 017,AG 2,rf coaxial cable,Phrase,1982,95,4037.58,5.0,32500.0,8
+Search - High-Speed I/O - UK - 017,AG 3,sma connector,Broad,8918,577,32396.55,22.0,143000.0,3
+Search - High-Speed I/O - UK - 017,AG 1,power connector 100a,Exact,3244,245,9514.1,10.0,65000.0,6
+Search - High-Speed I/O - UK - 017,AG 2,pcie gen 6 connector,Phrase,14461,505,29469.82,17.0,110500.0,9
+Search - High-Speed I/O - UK - 017,AG 3,usb type c receptacle,Broad,3819,280,9089.53,8.0,52000.0,2
+Search - Power - France - 018,AG 1,rf coaxial cable,Exact,4768,165,7558.54,11.0,71500.0,4
+Search - Power - France - 018,AG 2,sma connector,Phrase,3193,210,9082.02,10.0,65000.0,3
+Search - Power - France - 018,AG 3,power connector 100a,Broad,4472,303,10002.46,8.0,52000.0,2
+Search - Power - France - 018,AG 1,pcie gen 6 connector,Exact,10106,448,22881.2,21.0,136500.0,5
+Search - Power - France - 018,AG 2,usb type c receptacle,Phrase,5330,282,9642.94,5.0,32500.0,5
+Search - Power - France - 018,AG 3,m12 connector,Broad,1125,50,1998.0,2.0,13000.0,6
+Search - RF - France - 019,AG 1,sma connector,Exact,29465,499,19037.82,20.0,130000.0,9
+Search - RF - France - 019,AG 2,power connector 100a,Phrase,4235,260,13172.32,10.0,65000.0,4
+Search - RF - France - 019,AG 3,pcie gen 6 connector,Broad,2607,137,3633.44,4.0,26000.0,7
+Search - RF - France - 019,AG 1,usb type c receptacle,Exact,9470,433,22601.04,17.0,110500.0,8
+Search - RF - France - 019,AG 2,m12 connector,Phrase,4021,317,9477.75,15.0,97500.0,3
+Search - RF - France - 019,AG 3,qsfp cage,Broad,4333,64,2410.84,4.0,26000.0,6
+Search - Sensors - France - 020,AG 1,power connector 100a,Exact,3774,221,10103.72,10.0,65000.0,3
+Search - Sensors - France - 020,AG 2,pcie gen 6 connector,Phrase,2925,124,4500.01,5.0,32500.0,2
+Search - Sensors - France - 020,AG 3,usb type c receptacle,Broad,10372,260,7204.1,13.0,84500.0,5
+Search - Sensors - France - 020,AG 1,m12 connector,Exact,6417,215,6186.97,6.0,39000.0,4
+Search - Sensors - France - 020,AG 2,qsfp cage,Phrase,10652,423,12517.39,10.0,65000.0,5
+Search - Sensors - France - 020,AG 3,free connector datasheet,Broad,6945,532,25498.05,0.0,0.0,6
+Search - Industrial - Mexico - 021,AG 1,pcie gen 6 connector,Exact,6164,460,12200.94,23.0,149500.0,9
+Search - Industrial - Mexico - 021,AG 2,usb type c receptacle,Phrase,15946,583,31629.68,17.0,110500.0,3
+Search - Industrial - Mexico - 021,AG 3,m12 connector,Broad,16634,567,33536.17,33.0,214500.0,3
+Search - Industrial - Mexico - 021,AG 1,qsfp cage,Exact,1828,79,3863.22,6.0,39000.0,6
+Search - Industrial - Mexico - 021,AG 2,free connector datasheet,Phrase,2626,122,6854.38,0.0,0.0,7
+Search - Industrial - Mexico - 021,AG 3,connector jobs,Broad,8621,317,13078.25,0.0,0.0,4
+Search - Automotive - Mexico - 022,AG 1,usb type c receptacle,Exact,7520,572,16052.18,23.0,149500.0,5
+Search - Automotive - Mexico - 022,AG 2,m12 connector,Phrase,3819,164,9693.4,7.0,45500.0,7
+Search - Automotive - Mexico - 022,AG 3,qsfp cage,Broad,6865,286,16778.59,8.0,52000.0,7
+Search - Automotive - Mexico - 022,AG 1,free connector datasheet,Exact,7576,458,25679.16,0.0,0.0,4
+Search - Automotive - Mexico - 022,AG 2,connector jobs,Phrase,4981,243,10501.74,0.0,0.0,2
+Search - Automotive - Mexico - 022,AG 3,how to crimp connector,Broad,5487,322,8660.35,0.0,0.0,2
+Search - Datacom - Mexico - 023,AG 1,m12 connector,Exact,5578,436,21876.4,22.0,143000.0,4
+Search - Datacom - Mexico - 023,AG 2,qsfp cage,Phrase,4227,246,11410.25,10.0,65000.0,7
+Search - Datacom - Mexico - 023,AG 3,free connector datasheet,Broad,4795,216,9011.8,0.0,0.0,7
+Search - Datacom - Mexico - 023,AG 1,connector jobs,Exact,2281,176,5095.81,0.0,0.0,8
+Search - Datacom - Mexico - 023,AG 2,how to crimp connector,Phrase,3519,112,6622.04,0.0,0.0,3
+Search - Datacom - Mexico - 023,AG 3,cheap cables,Broad,6283,361,15623.22,0.0,0.0,5
+Search - Connectors - India - 024,AG 1,qsfp cage,Exact,4463,344,14488.63,15.0,97500.0,4
+Search - Connectors - India - 024,AG 2,free connector datasheet,Phrase,5549,154,6472.57,0.0,0.0,2
+Search - Connectors - India - 024,AG 3,connector jobs,Broad,15237,452,20607.58,0.0,0.0,4
+Search - Connectors - India - 024,AG 1,how to crimp connector,Exact,17123,469,22488.87,0.0,0.0,2
+Search - Connectors - India - 024,AG 2,cheap cables,Phrase,1234,65,3762.01,0.0,0.0,8
+Search - Connectors - India - 024,AG 3,ip67 circular connector,Broad,9228,599,18938.5,16.0,104000.0,7
+Search - Cables - India - 025,AG 1,free connector datasheet,Exact,21608,485,12849.02,0.0,0.0,4
+Search - Cables - India - 025,AG 2,connector jobs,Phrase,3538,83,4512.02,0.0,0.0,3
+Search - Cables - India - 025,AG 3,how to crimp connector,Broad,384,29,1713.01,0.0,0.0,2
+Search - Cables - India - 025,AG 1,cheap cables,Exact,1799,104,5664.79,0.0,0.0,2
+Search - Cables - India - 025,AG 2,ip67 circular connector,Phrase,27404,501,14669.42,11.0,71500.0,5
+Search - Cables - India - 025,AG 3,board to board connector,Broad,5460,289,15189.85,10.0,65000.0,4
+Search - Fiber Optics - India - 026,AG 1,connector jobs,Exact,4993,329,17961.3,0.0,0.0,8
+Search - Fiber Optics - India - 026,AG 2,how to crimp connector,Phrase,13143,545,31106.72,0.0,0.0,6
+Search - Fiber Optics - India - 026,AG 3,cheap cables,Broad,17205,179,6511.95,0.0,0.0,7
+Search - Fiber Optics - India - 026,AG 1,ip67 circular connector,Exact,4508,188,10368.51,9.0,58500.0,5
+Search - Fiber Optics - India - 026,AG 2,board to board connector,Phrase,7504,361,20881.0,17.0,110500.0,9
+Search - Fiber Optics - India - 026,AG 3,high speed backplane connector,Broad,9617,483,19730.32,21.0,136500.0,7
+Search - Antennas - US - 027,AG 1,how to crimp connector,Exact,4142,269,15959.23,0.0,0.0,7
+Search - Antennas - US - 027,AG 2,cheap cables,Phrase,1708,116,6128.23,0.0,0.0,9
+Search - Antennas - US - 027,AG 3,ip67 circular connector,Broad,7696,496,26187.28,26.0,169000.0,8
+Search - Antennas - US - 027,AG 1,board to board connector,Exact,7514,473,21419.84,19.0,123500.0,4
+Search - Antennas - US - 027,AG 2,high speed backplane connector,Phrase,2460,173,9174.44,5.0,32500.0,3
+Search - Antennas - US - 027,AG 3,fiber optic patch cord,Broad,18548,263,13845.48,12.0,78000.0,6
+Search - Backplane - US - 028,AG 1,cheap cables,Exact,2440,45,2281.2,0.0,0.0,2
+Search - Backplane - US - 028,AG 2,ip67 circular connector,Phrase,2215,118,5394.61,3.0,19500.0,9
+Search - Backplane - US - 028,AG 3,board to board connector,Broad,15316,423,17316.97,19.0,123500.0,9
+Search - Backplane - US - 028,AG 1,high speed backplane connector,Exact,2952,182,10114.61,8.0,52000.0,5
+Search - Backplane - US - 028,AG 2,fiber optic patch cord,Phrase,840,56,1745.05,0.0,0.0,2
+Search - Backplane - US - 028,AG 3,rf coaxial cable,Broad,5035,288,16558.95,11.0,71500.0,4
+Search - High-Speed I/O - US - 029,AG 1,ip67 circular connector,Exact,26330,410,22092.2,23.0,149500.0,9
+Search - High-Speed I/O - US - 029,AG 2,board to board connector,Phrase,7598,535,25759.03,24.0,156000.0,6
+Search - High-Speed I/O - US - 029,AG 3,high speed backplane connector,Broad,8864,584,19003.35,20.0,130000.0,3
+Search - High-Speed I/O - US - 029,AG 1,fiber optic patch cord,Exact,3533,247,12764.57,10.0,65000.0,8
+Search - High-Speed I/O - US - 029,AG 2,rf coaxial cable,Phrase,7226,431,15985.51,12.0,78000.0,9
+Search - High-Speed I/O - US - 029,AG 3,sma connector,Broad,11714,212,9068.55,16.0,104000.0,8
+Search - Power - Germany - 030,AG 1,board to board connector,Exact,10580,530,24753.43,18.0,117000.0,2
+Search - Power - Germany - 030,AG 2,high speed backplane connector,Phrase,796,61,2699.01,1.0,6500.0,6
+Search - Power - Germany - 030,AG 3,fiber optic patch cord,Broad,4826,264,7426.14,13.0,84500.0,8
+Search - Power - Germany - 030,AG 1,rf coaxial cable,Exact,3275,248,11967.75,13.0,84500.0,9
+Search - Power - Germany - 030,AG 2,sma connector,Phrase,6910,275,14118.18,8.0,52000.0,3
+Search - Power - Germany - 030,AG 3,power connector 100a,Broad,28072,419,15550.53,13.0,84500.0,2
+Search - RF - Germany - 031,AG 1,high speed backplane connector,Exact,2298,109,6150.91,4.0,26000.0,4
+Search - RF - Germany - 031,AG 2,fiber optic patch cord,Phrase,3396,207,11284.35,6.0,39000.0,2
+Search - RF - Germany - 031,AG 3,rf coaxial cable,Broad,10002,594,17819.72,21.0,136500.0,3
+Search - RF - Germany - 031,AG 1,sma connector,Exact,2727,181,6593.84,10.0,65000.0,5
+Search - RF - Germany - 031,AG 2,power connector 100a,Phrase,12257,435,12330.54,15.0,97500.0,4
+Search - RF - Germany - 031,AG 3,pcie gen 6 connector,Broad,9666,587,16677.73,23.0,149500.0,2
+Search - Sensors - Germany - 032,AG 1,fiber optic patch cord,Exact,8146,438,23694.44,26.0,169000.0,5
+Search - Sensors - Germany - 032,AG 2,rf coaxial cable,Phrase,9040,563,30846.84,19.0,123500.0,2
+Search - Sensors - Germany - 032,AG 3,sma connector,Broad,5422,171,6735.73,7.0,45500.0,2
+Search - Sensors - Germany - 032,AG 1,power connector 100a,Exact,4366,233,6186.76,9.0,58500.0,5
+Search - Sensors - Germany - 032,AG 2,pcie gen 6 connector,Phrase,3871,166,8319.01,7.0,45500.0,9
+Search - Sensors - Germany - 032,AG 3,usb type c receptacle,Broad,4196,291,16941.87,16.0,104000.0,4
+Search - Industrial - China - 033,AG 1,rf coaxial cable,Exact,10168,549,31347.25,23.0,149500.0,8
+Search - Industrial - China - 033,AG 2,sma connector,Phrase,10073,596,29220.82,26.0,169000.0,4
+Search - Industrial - China - 033,AG 3,power connector 100a,Broad,3224,115,3298.03,3.0,19500.0,6
+Search - Industrial - China - 033,AG 1,pcie gen 6 connector,Exact,15237,485,21493.41,22.0,143000.0,8
+Search - Industrial - China - 033,AG 2,usb type c receptacle,Phrase,5025,230,9240.68,5.0,32500.0,3
+Search - Industrial - China - 033,AG 3,m12 connector,Broad,1512,81,2368.96,5.0,32500.0,8
+Search - Automotive - China - 034,AG 1,sma connector,Exact,9760,526,22716.16,21.0,136500.0,5
+Search - Automotive - China - 034,AG 2,power connector 100a,Phrase,15968,288,8099.58,16.0,104000.0,7
+Search - Automotive - China - 034,AG 3,pcie gen 6 connector,Broad,6730,488,26164.12,13.0,84500.0,4
+Search - Automotive - China - 034,AG 1,usb type c receptacle,Exact,5727,391,23427.24,16.0,104000.0,5
+Search - Automotive - China - 034,AG 2,m12 connector,Phrase,8086,398,15826.56,12.0,78000.0,6
+Search - Automotive - China - 034,AG 3,qsfp cage,Broad,4211,319,14576.28,9.0,58500.0,2
+Search - Datacom - China - 035,AG 1,power connector 100a,Exact,3651,109,4071.75,5.0,32500.0,6
+Search - Datacom - China - 035,AG 2,pcie gen 6 connector,Phrase,3569,101,2750.89,5.0,32500.0,2
+Search - Datacom - China - 035,AG 3,usb type c receptacle,Broad,1416,89,2480.29,4.0,26000.0,4
+Search - Datacom - China - 035,AG 1,m12 connector,Exact,1476,99,2590.52,2.0,13000.0,6
+Search - Datacom - China - 035,AG 2,qsfp cage,Phrase,16512,388,10619.69,20.0,130000.0,5
+Search - Datacom - China - 035,AG 3,free connector datasheet,Broad,2344,105,5360.52,0.0,0.0,4
+Search - Connectors - Japan - 036,AG 1,pcie gen 6 connector,Exact,678,38,1342.72,0.0,0.0,5
+Search - Connectors - Japan - 036,AG 2,usb type c receptacle,Phrase,1604,85,3939.25,5.0,32500.0,5
+Search - Connectors - Japan - 036,AG 3,m12 connector,Broad,6037,257,10251.33,7.0,45500.0,9
+Search - Connectors - Japan - 036,AG 1,qsfp cage,Exact,24785,526,21176.53,23.0,149500.0,5
+Search - Connectors - Japan - 036,AG 2,free connector datasheet,Phrase,14616,247,13018.06,0.0,0.0,5
+Search - Connectors - Japan - 036,AG 3,connector jobs,Broad,6684,299,12740.12,0.0,0.0,7
+Search - Cables - Japan - 037,AG 1,usb type c receptacle,Exact,3022,161,6687.24,3.0,19500.0,6
+Search - Cables - Japan - 037,AG 2,m12 connector,Phrase,10296,527,20909.08,17.0,110500.0,5
+Search - Cables - Japan - 037,AG 3,qsfp cage,Broad,3590,123,5031.19,3.0,19500.0,5
+Search - Cables - Japan - 037,AG 1,free connector datasheet,Exact,12065,455,15593.71,0.0,0.0,2
+Search - Cables - Japan - 037,AG 2,connector jobs,Phrase,623,41,1233.89,0.0,0.0,3
+Search - Cables - Japan - 037,AG 3,how to crimp connector,Broad,29952,497,28483.96,0.0,0.0,9
+Search - Fiber Optics - Japan - 038,AG 1,m12 connector,Exact,8222,401,11052.27,15.0,97500.0,4
+Search - Fiber Optics - Japan - 038,AG 2,qsfp cage,Phrase,6343,365,18423.86,22.0,143000.0,8
+Search - Fiber Optics - Japan - 038,AG 3,free connector datasheet,Broad,9383,348,15292.15,0.0,0.0,4
+Search - Fiber Optics - Japan - 038,AG 1,connector jobs,Exact,1517,66,3072.23,0.0,0.0,7
+Search - Fiber Optics - Japan - 038,AG 2,how to crimp connector,Phrase,2977,212,10134.26,0.0,0.0,3
+Search - Fiber Optics - Japan - 038,AG 3,cheap cables,Broad,9629,375,9586.47,0.0,0.0,9
+Search - Antennas - UK - 039,AG 1,qsfp cage,Exact,874,40,1107.03,2.0,13000.0,8
+Search - Antennas - UK - 039,AG 2,free connector datasheet,Phrase,5049,403,12660.93,0.0,0.0,4
+Search - Antennas - UK - 039,AG 3,connector jobs,Broad,5972,339,12044.89,0.0,0.0,2
+Search - Antennas - UK - 039,AG 1,how to crimp connector,Exact,10947,322,14199.08,0.0,0.0,6
+Search - Antennas - UK - 039,AG 2,cheap cables,Phrase,8107,484,18694.87,0.0,0.0,7
+Search - Antennas - UK - 039,AG 3,ip67 circular connector,Broad,12834,506,18879.96,25.0,162500.0,7
+Search - Backplane - UK - 040,AG 1,free connector datasheet,Exact,20628,362,16678.94,0.0,0.0,2
+Search - Backplane - UK - 040,AG 2,connector jobs,Phrase,11375,560,20425.97,0.0,0.0,3
+Search - Backplane - UK - 040,AG 3,how to crimp connector,Broad,8108,311,13262.67,0.0,0.0,6
+Search - Backplane - UK - 040,AG 1,cheap cables,Exact,737,51,1359.35,0.0,0.0,3
+Search - Backplane - UK - 040,AG 2,ip67 circular connector,Phrase,14849,420,23822.5,23.0,149500.0,5
+Search - Backplane - UK - 040,AG 3,board to board connector,Broad,5917,180,5526.0,6.0,39000.0,5
+Search - High-Speed I/O - UK - 041,AG 1,connector jobs,Exact,7215,95,2762.28,0.0,0.0,5
+Search - High-Speed I/O - UK - 041,AG 2,how to crimp connector,Phrase,23509,501,14954.96,0.0,0.0,6
+Search - High-Speed I/O - UK - 041,AG 3,cheap cables,Broad,4697,366,15694.76,0.0,0.0,7
+Search - High-Speed I/O - UK - 041,AG 1,ip67 circular connector,Exact,12384,575,19740.44,21.0,136500.0,2
+Search - High-Speed I/O - UK - 041,AG 2,board to board connector,Phrase,12391,323,8672.38,14.0,91000.0,9
+Search - High-Speed I/O - UK - 041,AG 3,high speed backplane connector,Broad,1688,121,6484.1,6.0,39000.0,8
+Search - Power - France - 042,AG 1,how to crimp connector,Exact,5188,361,18499.2,0.0,0.0,5
+Search - Power - France - 042,AG 2,cheap cables,Phrase,4505,294,15560.64,0.0,0.0,2
+Search - Power - France - 042,AG 3,ip67 circular connector,Broad,14086,419,13180.09,14.0,91000.0,8
+Search - Power - France - 042,AG 1,board to board connector,Exact,12643,324,12171.24,16.0,104000.0,9
+Search - Power - France - 042,AG 2,high speed backplane connector,Phrase,9646,446,21593.05,11.0,71500.0,7
+Search - Power - France - 042,AG 3,fiber optic patch cord,Broad,33123,434,11290.07,9.0,58500.0,2
+Search - RF - France - 043,AG 1,cheap cables,Exact,819,32,850.83,0.0,0.0,2
+Search - RF - France - 043,AG 2,ip67 circular connector,Phrase,5043,299,9290.05,10.0,65000.0,9
+Search - RF - France - 043,AG 3,board to board connector,Broad,5307,246,11448.06,18.0,117000.0,7
+Search - RF - France - 043,AG 1,high speed backplane connector,Exact,8772,507,16496.13,23.0,149500.0,6
+Search - RF - France - 043,AG 2,fiber optic patch cord,Phrase,19163,343,11747.02,16.0,104000.0,4
+Search - RF - France - 043,AG 3,rf coaxial cable,Broad,1475,41,1234.58,4.0,26000.0,3
+Search - Sensors - France - 044,AG 1,ip67 circular connector,Exact,42855,487,22863.01,20.0,130000.0,9
+Search - Sensors - France - 044,AG 2,board to board connector,Phrase,5050,399,14527.02,13.0,84500.0,2
+Search - Sensors - France - 044,AG 3,high speed backplane connector,Broad,1572,74,3806.16,2.0,13000.0,9
+Search - Sensors - France - 044,AG 1,fiber optic patch cord,Exact,6447,299,14999.2,15.0,97500.0,5
+Search - Sensors - France - 044,AG 2,rf coaxial cable,Phrase,5866,419,15113.9,17.0,110500.0,8
+Search - Sensors - France - 044,AG 3,sma connector,Broad,1858,139,3853.09,6.0,39000.0,7
+Search - Industrial - Mexico - 045,AG 1,board to board connector,Exact,30505,577,29649.12,32.0,208000.0,6
+Search - Industrial - Mexico - 045,AG 2,high speed backplane connector,Phrase,2029,141,3611.57,9.0,58500.0,3
+Search - Industrial - Mexico - 045,AG 3,fiber optic patch cord,Broad,2082,80,2907.09,2.0,13000.0,3
+Search - Industrial - Mexico - 045,AG 1,rf coaxial cable,Exact,9004,379,14109.22,11.0,71500.0,7
+Search - Industrial - Mexico - 045,AG 2,sma connector,Phrase,5591,332,12574.13,16.0,104000.0,7
+Search - Industrial - Mexico - 045,AG 3,power connector 100a,Broad,5431,322,9542.16,13.0,84500.0,2
+Search - Automotive - Mexico - 046,AG 1,high speed backplane connector,Exact,1446,104,4004.49,6.0,39000.0,4
+Search - Automotive - Mexico - 046,AG 2,fiber optic patch cord,Phrase,6253,317,8872.98,12.0,78000.0,5
+Search - Automotive - Mexico - 046,AG 3,rf coaxial cable,Broad,5249,66,3012.47,2.0,13000.0,5
+Search - Automotive - Mexico - 046,AG 1,sma connector,Exact,2809,132,5402.21,3.0,19500.0,6
+Search - Automotive - Mexico - 046,AG 2,power connector 100a,Phrase,1587,124,5334.8,2.0,13000.0,4
+Search - Automotive - Mexico - 046,AG 3,pcie gen 6 connector,Broad,7045,541,28504.21,18.0,117000.0,9
+Search - Datacom - Mexico - 047,AG 1,fiber optic patch cord,Exact,20151,228,10291.83,8.0,52000.0,9
+Search - Datacom - Mexico - 047,AG 2,rf coaxial cable,Phrase,19361,328,9880.19,11.0,71500.0,8
+Search - Datacom - Mexico - 047,AG 3,sma connector,Broad,5373,125,3976.53,8.0,52000.0,9
+Search - Datacom - Mexico - 047,AG 1,power connector 100a,Exact,53644,578,18269.56,23.0,149500.0,3
+Search - Datacom - Mexico - 047,AG 2,pcie gen 6 connector,Phrase,1957,85,4705.41,6.0,39000.0,4
+Search - Datacom - Mexico - 047,AG 3,usb type c receptacle,Broad,12573,323,10350.23,5.0,32500.0,2
+Search - Connectors - India - 048,AG 1,rf coaxial cable,Exact,10419,553,15592.56,16.0,104000.0,6
+Search - Connectors - India - 048,AG 2,sma connector,Phrase,3875,105,5283.69,7.0,45500.0,8
+Search - Connectors - India - 048,AG 3,power connector 100a,Broad,2132,124,3440.73,4.0,26000.0,2
+Search - Connectors - India - 048,AG 1,pcie gen 6 connector,Exact,27362,507,14748.68,27.0,175500.0,4
+Search - Connectors - India - 048,AG 2,usb type c receptacle,Phrase,4820,281,15626.21,5.0,32500.0,5
+Search - Connectors - India - 048,AG 3,m12 connector,Broad,12315,288,10036.69,10.0,65000.0,8
+Search - Cables - India - 049,AG 1,sma connector,Exact,20580,509,21597.02,12.0,78000.0,5
+Search - Cables - India - 049,AG 2,power connector 100a,Phrase,8001,493,26617.93,21.0,136500.0,7
+Search - Cables - India - 049,AG 3,pcie gen 6 connector,Broad,5214,127,7498.01,10.0,65000.0,7
+Search - Cables - India - 049,AG 1,usb type c receptacle,Exact,335,25,669.73,0.0,0.0,6
+Search - Cables - India - 049,AG 2,m12 connector,Phrase,10017,459,26149.33,22.0,143000.0,9
+Search - Cables - India - 049,AG 3,qsfp cage,Broad,16320,501,27477.92,10.0,65000.0,7
+Search - Fiber Optics - India - 050,AG 1,power connector 100a,Exact,17890,315,18382.31,7.0,45500.0,2
+Search - Fiber Optics - India - 050,AG 2,pcie gen 6 connector,Phrase,10960,547,21572.19,17.0,110500.0,2
+Search - Fiber Optics - India - 050,AG 3,usb type c receptacle,Broad,7005,261,13761.88,17.0,110500.0,2
+Search - Fiber Optics - India - 050,AG 1,m12 connector,Exact,2080,68,3892.66,2.0,13000.0,3
+Search - Fiber Optics - India - 050,AG 2,qsfp cage,Phrase,5868,348,18609.26,11.0,71500.0,6
+Search - Fiber Optics - India - 050,AG 3,free connector datasheet,Broad,4977,70,2036.64,0.0,0.0,3
+Search - Antennas - US - 051,AG 1,pcie gen 6 connector,Exact,4404,225,9988.44,6.0,39000.0,3
+Search - Antennas - US - 051,AG 2,usb type c receptacle,Phrase,17831,449,14463.07,23.0,149500.0,4
+Search - Antennas - US - 051,AG 3,m12 connector,Broad,20963,445,17886.02,14.0,91000.0,7
+Search - Antennas - US - 051,AG 1,qsfp cage,Exact,3277,185,4788.76,10.0,65000.0,3
+Search - Antennas - US - 051,AG 2,free connector datasheet,Phrase,7395,126,6794.33,0.0,0.0,3
+Search - Antennas - US - 051,AG 3,connector jobs,Broad,31210,350,20126.86,0.0,0.0,4
+Search - Backplane - US - 052,AG 1,usb type c receptacle,Exact,3011,83,4416.67,0.0,0.0,9
+Search - Backplane - US - 052,AG 2,m12 connector,Phrase,1500,112,5943.1,3.0,19500.0,8
+Search - Backplane - US - 052,AG 3,qsfp cage,Broad,5776,427,11544.77,12.0,78000.0,4
+Search - Backplane - US - 052,AG 1,free connector datasheet,Exact,2044,95,3429.93,0.0,0.0,5
+Search - Backplane - US - 052,AG 2,connector jobs,Phrase,6984,540,18567.42,0.0,0.0,6
+Search - Backplane - US - 052,AG 3,how to crimp connector,Broad,5474,305,11785.51,0.0,0.0,9
+Search - High-Speed I/O - US - 053,AG 1,m12 connector,Exact,24067,430,15211.89,18.0,117000.0,5
+Search - High-Speed I/O - US - 053,AG 2,qsfp cage,Phrase,5407,351,20549.16,16.0,104000.0,2
+Search - High-Speed I/O - US - 053,AG 3,free connector datasheet,Broad,6947,326,13205.0,0.0,0.0,7
+Search - High-Speed I/O - US - 053,AG 1,connector jobs,Exact,6893,441,15825.78,0.0,0.0,6
+Search - High-Speed I/O - US - 053,AG 2,how to crimp connector,Phrase,52865,587,20564.04,0.0,0.0,7
+Search - High-Speed I/O - US - 053,AG 3,cheap cables,Broad,23957,579,33561.48,0.0,0.0,8
+Search - Power - Germany - 054,AG 1,qsfp cage,Exact,10956,165,6014.97,6.0,39000.0,5
+Search - Power - Germany - 054,AG 2,free connector datasheet,Phrase,29500,567,34001.48,0.0,0.0,4
+Search - Power - Germany - 054,AG 3,connector jobs,Broad,8007,529,18261.09,0.0,0.0,7
+Search - Power - Germany - 054,AG 1,how to crimp connector,Exact,355,20,794.27,0.0,0.0,9
+Search - Power - Germany - 054,AG 2,cheap cables,Phrase,6919,437,21765.34,0.0,0.0,3
+Search - Power - Germany - 054,AG 3,ip67 circular connector,Broad,29191,558,19935.37,26.0,169000.0,4
+Search - RF - Germany - 055,AG 1,free connector datasheet,Exact,789,44,1787.83,0.0,0.0,8
+Search - RF - Germany - 055,AG 2,connector jobs,Phrase,6519,360,9785.24,0.0,0.0,5
+Search - RF - Germany - 055,AG 3,how to crimp connector,Broad,27537,334,11399.97,0.0,0.0,6
+Search - RF - Germany - 055,AG 1,cheap cables,Exact,7044,550,32076.22,0.0,0.0,8
+Search - RF - Germany - 055,AG 2,ip67 circular connector,Phrase,20624,561,22587.47,27.0,175500.0,8
+Search - RF - Germany - 055,AG 3,board to board connector,Broad,12680,494,16424.56,23.0,149500.0,3
+Search - Sensors - Germany - 056,AG 1,connector jobs,Exact,16113,371,12499.73,0.0,0.0,2
+Search - Sensors - Germany - 056,AG 2,how to crimp connector,Phrase,13230,594,16108.44,0.0,0.0,5
+Search - Sensors - Germany - 056,AG 3,cheap cables,Broad,1626,57,2743.51,0.0,0.0,6
+Search - Sensors - Germany - 056,AG 1,ip67 circular connector,Exact,2191,169,6927.07,8.0,52000.0,6
+Search - Sensors - Germany - 056,AG 2,board to board connector,Phrase,9214,586,16476.09,27.0,175500.0,7
+Search - Sensors - Germany - 056,AG 3,high speed backplane connector,Broad,1914,134,4370.0,4.0,26000.0,7
+Search - Industrial - China - 057,AG 1,how to crimp connector,Exact,3926,171,5251.96,0.0,0.0,4
+Search - Industrial - China - 057,AG 2,cheap cables,Phrase,29106,565,25065.91,0.0,0.0,6
+Search - Industrial - China - 057,AG 3,ip67 circular connector,Broad,9271,438,26046.49,15.0,97500.0,6
+Search - Industrial - China - 057,AG 1,board to board connector,Exact,5010,365,10258.27,20.0,130000.0,7
+Search - Industrial - China - 057,AG 2,high speed backplane connector,Phrase,6071,348,10796.89,12.0,78000.0,7
+Search - Industrial - China - 057,AG 3,fiber optic patch cord,Broad,13428,145,8127.08,10.0,65000.0,6
+Search - Automotive - China - 058,AG 1,cheap cables,Exact,1340,104,4466.68,0.0,0.0,2
+Search - Automotive - China - 058,AG 2,ip67 circular connector,Phrase,12054,515,30704.28,23.0,149500.0,4
+Search - Automotive - China - 058,AG 3,board to board connector,Broad,10749,307,18242.96,11.0,71500.0,7
+Search - Automotive - China - 058,AG 1,high speed backplane connector,Exact,6413,511,15714.46,19.0,123500.0,6
+Search - Automotive - China - 058,AG 2,fiber optic patch cord,Phrase,6786,431,22851.89,16.0,104000.0,3
+Search - Automotive - China - 058,AG 3,rf coaxial cable,Broad,4224,130,4558.3,5.0,32500.0,4
+Search - Datacom - China - 059,AG 1,ip67 circular connector,Exact,13454,576,22070.87,24.0,156000.0,7
+Search - Datacom - China - 059,AG 2,board to board connector,Phrase,9964,567,28424.03,18.0,117000.0,6
+Search - Datacom - China - 059,AG 3,high speed backplane connector,Broad,7118,125,6919.35,6.0,39000.0,9
+Search - Datacom - China - 059,AG 1,fiber optic patch cord,Exact,16572,206,11799.96,7.0,45500.0,4
+Search - Datacom - China - 059,AG 2,rf coaxial cable,Phrase,28701,520,30599.48,23.0,149500.0,4
+Search - Datacom - China - 059,AG 3,sma connector,Broad,6060,196,6393.63,9.0,58500.0,2

@@ -1,0 +1,301 @@
+campaign_id,campaign_name,planned_monthly_spend,target_cpa,target_roas,owner_specialist
+20000000000,Search - Connectors - India - 000,45600.0,1240.0,0.0,Specialist A
+20000000037,Search - Cables - India - 001,364800.0,1240.0,0.0,Specialist B
+20000000074,Search - Fiber Optics - India - 002,243200.0,1240.0,0.0,Specialist C
+20000000111,Search - Antennas - US - 003,152000.0,1240.0,0.0,Specialist D
+20000000148,Search - Backplane - US - 004,152000.0,1240.0,0.0,Specialist A
+20000000185,Search - High-Speed I/O - US - 005,608000.0,1240.0,0.0,Specialist B
+20000000222,Search - Power - Germany - 006,45600.0,1240.0,0.0,Specialist C
+20000000259,Search - RF - Germany - 007,364800.0,1240.0,0.0,Specialist D
+20000000296,Search - Sensors - Germany - 008,91200.0,1240.0,0.0,Specialist A
+20000000333,Search - Industrial - China - 009,45600.0,1240.0,0.0,Specialist B
+20000000370,Search - Automotive - China - 010,243200.0,1240.0,0.0,Specialist C
+20000000407,Search - Datacom - China - 011,608000.0,1240.0,0.0,Specialist D
+20000000444,Search - Connectors - Japan - 012,364800.0,1240.0,0.0,Specialist A
+20000000481,Search - Cables - Japan - 013,364800.0,1240.0,0.0,Specialist B
+20000000518,Search - Fiber Optics - Japan - 014,364800.0,1240.0,0.0,Specialist C
+20000000555,Search - Antennas - UK - 015,364800.0,1240.0,0.0,Specialist D
+20000000592,Search - Backplane - UK - 016,243200.0,1240.0,0.0,Specialist A
+20000000629,Search - High-Speed I/O - UK - 017,45600.0,1240.0,0.0,Specialist B
+20000000666,Search - Power - France - 018,608000.0,1240.0,0.0,Specialist C
+20000000703,Search - RF - France - 019,152000.0,1240.0,0.0,Specialist D
+20000000740,Search - Sensors - France - 020,,1240.0,0.0,Specialist A
+20000000777,Search - Industrial - Mexico - 021,,1240.0,0.0,Specialist B
+20000000814,Search - Automotive - Mexico - 022,,1240.0,0.0,Specialist C
+20000000851,Search - Datacom - Mexico - 023,608000.0,1240.0,0.0,Specialist D
+20000000888,Search - Connectors - India - 024,364800.0,1240.0,0.0,Specialist A
+20000000925,Search - Cables - India - 025,243200.0,1240.0,0.0,Specialist B
+20000000962,Search - Fiber Optics - India - 026,152000.0,1240.0,0.0,Specialist C
+20000000999,Search - Antennas - US - 027,364800.0,1240.0,0.0,Specialist D
+20000001036,Search - Backplane - US - 028,243200.0,1240.0,0.0,Specialist A
+20000001073,Search - High-Speed I/O - US - 029,152000.0,1240.0,0.0,Specialist B
+20000001110,Search - Power - Germany - 030,152000.0,1240.0,0.0,Specialist C
+20000001147,Search - RF - Germany - 031,91200.0,1240.0,0.0,Specialist D
+20000001184,Search - Sensors - Germany - 032,45600.0,1240.0,0.0,Specialist A
+20000001221,Search - Industrial - China - 033,243200.0,1240.0,0.0,Specialist B
+20000001258,Search - Automotive - China - 034,608000.0,1240.0,0.0,Specialist C
+20000001295,Search - Datacom - China - 035,45600.0,1240.0,0.0,Specialist D
+20000001332,Search - Connectors - Japan - 036,608000.0,1240.0,0.0,Specialist A
+20000001369,Search - Cables - Japan - 037,364800.0,1240.0,0.0,Specialist B
+20000001406,Search - Fiber Optics - Japan - 038,91200.0,1240.0,0.0,Specialist C
+20000001443,Search - Antennas - UK - 039,243200.0,1240.0,0.0,Specialist D
+20000001480,Search - Backplane - UK - 040,45600.0,1240.0,0.0,Specialist A
+20000001517,Search - High-Speed I/O - UK - 041,364800.0,1240.0,0.0,Specialist B
+20000001554,Search - Power - France - 042,364800.0,1240.0,0.0,Specialist C
+20000001591,Search - RF - France - 043,152000.0,1240.0,0.0,Specialist D
+20000001628,Search - Sensors - France - 044,45600.0,1240.0,0.0,Specialist A
+20000001665,Search - Industrial - Mexico - 045,608000.0,1240.0,0.0,Specialist B
+20000001702,Search - Automotive - Mexico - 046,152000.0,1240.0,0.0,Specialist C
+20000001739,Search - Datacom - Mexico - 047,608000.0,1240.0,0.0,Specialist D
+20000001776,Search - Connectors - India - 048,364800.0,1240.0,0.0,Specialist A
+20000001813,Search - Cables - India - 049,364800.0,1240.0,0.0,Specialist B
+20000001850,Search - Fiber Optics - India - 050,364800.0,1240.0,0.0,Specialist C
+20000001887,Search - Antennas - US - 051,91200.0,1240.0,0.0,Specialist D
+20000001924,Search - Backplane - US - 052,152000.0,1240.0,0.0,Specialist A
+20000001961,Search - High-Speed I/O - US - 053,152000.0,1240.0,0.0,Specialist B
+20000001998,Search - Power - Germany - 054,152000.0,1240.0,0.0,Specialist C
+20000002035,Search - RF - Germany - 055,45600.0,1240.0,0.0,Specialist D
+20000002072,Search - Sensors - Germany - 056,243200.0,1240.0,0.0,Specialist A
+20000002109,Search - Industrial - China - 057,45600.0,1240.0,0.0,Specialist B
+20000002146,Search - Automotive - China - 058,364800.0,1240.0,0.0,Specialist C
+20000002183,Search - Datacom - China - 059,364800.0,1240.0,0.0,Specialist D
+20000002220,Performance Max - Connectors - Japan - 060,608000.0,0.0,4.0,Specialist A
+20000002257,Performance Max - Cables - Japan - 061,364800.0,0.0,4.0,Specialist B
+20000002294,Performance Max - Fiber Optics - Japan - 062,152000.0,0.0,4.0,Specialist C
+20000002331,Performance Max - Antennas - UK - 063,608000.0,0.0,4.0,Specialist D
+20000002368,Performance Max - Backplane - UK - 064,152000.0,0.0,4.0,Specialist A
+20000002405,Performance Max - High-Speed I/O - UK - 065,91200.0,0.0,4.0,Specialist B
+20000002442,Performance Max - Power - France - 066,608000.0,0.0,4.0,Specialist C
+20000002479,Performance Max - RF - France - 067,152000.0,0.0,4.0,Specialist D
+20000002516,Performance Max - Sensors - France - 068,45600.0,0.0,4.0,Specialist A
+20000002553,Performance Max - Industrial - Mexico - 069,152000.0,0.0,4.0,Specialist B
+20000002590,Performance Max - Automotive - Mexico - 070,364800.0,0.0,4.0,Specialist C
+20000002627,Performance Max - Datacom - Mexico - 071,91200.0,0.0,4.0,Specialist D
+20000002664,Performance Max - Connectors - India - 072,152000.0,0.0,4.0,Specialist A
+20000002701,Performance Max - Cables - India - 073,45600.0,0.0,4.0,Specialist B
+20000002738,Performance Max - Fiber Optics - India - 074,364800.0,0.0,4.0,Specialist C
+20000002775,Performance Max - Antennas - US - 075,152000.0,0.0,4.0,Specialist D
+20000002812,Performance Max - Backplane - US - 076,91200.0,0.0,4.0,Specialist A
+20000002849,Performance Max - High-Speed I/O - US - 077,91200.0,0.0,4.0,Specialist B
+20000002886,Shopping - Power - Germany - 078,243200.0,0.0,4.0,Specialist C
+20000002923,Shopping - RF - Germany - 079,364800.0,0.0,4.0,Specialist D
+20000002960,Shopping - Sensors - Germany - 080,608000.0,0.0,4.0,Specialist A
+20000002997,Shopping - Industrial - China - 081,152000.0,0.0,4.0,Specialist B
+20000003034,Shopping - Automotive - China - 082,45600.0,0.0,4.0,Specialist C
+20000003071,Shopping - Datacom - China - 083,364800.0,0.0,4.0,Specialist D
+20000003108,Shopping - Connectors - Japan - 084,243200.0,0.0,4.0,Specialist A
+20000003145,Shopping - Cables - Japan - 085,364800.0,0.0,4.0,Specialist B
+20000003182,Demand Gen - Fiber Optics - Japan - 086,45600.0,2340.0,0.0,Specialist C
+20000003219,Demand Gen - Antennas - UK - 087,91200.0,2340.0,0.0,Specialist D
+20000003256,Demand Gen - Backplane - UK - 088,364800.0,2340.0,0.0,Specialist A
+20000003293,Demand Gen - High-Speed I/O - UK - 089,364800.0,2340.0,0.0,Specialist B
+20000003330,Demand Gen - Power - France - 090,152000.0,2340.0,0.0,Specialist C
+20000003367,Demand Gen - RF - France - 091,364800.0,2340.0,0.0,Specialist D
+20000003404,Demand Gen - Sensors - France - 092,608000.0,2340.0,0.0,Specialist A
+20000003441,Demand Gen - Industrial - Mexico - 093,152000.0,2340.0,0.0,Specialist B
+20000003478,Display - Automotive - Mexico - 094,608000.0,1730.0,0.0,Specialist C
+20000003515,Display - Datacom - Mexico - 095,91200.0,1730.0,0.0,Specialist D
+20000003552,Display - Connectors - India - 096,91200.0,1730.0,0.0,Specialist A
+20000003589,Display - Cables - India - 097,364800.0,1730.0,0.0,Specialist B
+20000003626,Video - Fiber Optics - India - 098,243200.0,1950.0,0.0,Specialist C
+20000003663,Video - Antennas - US - 099,45600.0,1950.0,0.0,Specialist D
+20000003700,Search - Backplane - US - 100,364800.0,1240.0,0.0,Specialist A
+20000003737,Search - High-Speed I/O - US - 101,91200.0,1240.0,0.0,Specialist B
+20000003774,Search - Power - Germany - 102,364800.0,1240.0,0.0,Specialist C
+20000003811,Search - RF - Germany - 103,45600.0,1240.0,0.0,Specialist D
+20000003848,Search - Sensors - Germany - 104,364800.0,1240.0,0.0,Specialist A
+20000003885,Search - Industrial - China - 105,364800.0,1240.0,0.0,Specialist B
+20000003922,Search - Automotive - China - 106,364800.0,1240.0,0.0,Specialist C
+20000003959,Search - Datacom - China - 107,243200.0,1240.0,0.0,Specialist D
+20000003996,Search - Connectors - Japan - 108,152000.0,1240.0,0.0,Specialist A
+20000004033,Search - Cables - Japan - 109,364800.0,1240.0,0.0,Specialist B
+20000004070,Search - Fiber Optics - Japan - 110,91200.0,1240.0,0.0,Specialist C
+20000004107,Search - Antennas - UK - 111,364800.0,1240.0,0.0,Specialist D
+20000004144,Search - Backplane - UK - 112,243200.0,1240.0,0.0,Specialist A
+20000004181,Search - High-Speed I/O - UK - 113,152000.0,1240.0,0.0,Specialist B
+20000004218,Search - Power - France - 114,243200.0,1240.0,0.0,Specialist C
+20000004255,Search - RF - France - 115,243200.0,1240.0,0.0,Specialist D
+20000004292,Search - Sensors - France - 116,45600.0,1240.0,0.0,Specialist A
+20000004329,Search - Industrial - Mexico - 117,45600.0,1240.0,0.0,Specialist B
+20000004366,Search - Automotive - Mexico - 118,91200.0,1240.0,0.0,Specialist C
+20000004403,Search - Datacom - Mexico - 119,45600.0,1240.0,0.0,Specialist D
+20000004440,Search - Connectors - India - 120,152000.0,1240.0,0.0,Specialist A
+20000004477,Search - Cables - India - 121,364800.0,1240.0,0.0,Specialist B
+20000004514,Search - Fiber Optics - India - 122,243200.0,1240.0,0.0,Specialist C
+20000004551,Search - Antennas - US - 123,152000.0,1240.0,0.0,Specialist D
+20000004588,Search - Backplane - US - 124,608000.0,1240.0,0.0,Specialist A
+20000004625,Search - High-Speed I/O - US - 125,243200.0,1240.0,0.0,Specialist B
+20000004662,Search - Power - Germany - 126,45600.0,1240.0,0.0,Specialist C
+20000004699,Search - RF - Germany - 127,364800.0,1240.0,0.0,Specialist D
+20000004736,Search - Sensors - Germany - 128,243200.0,1240.0,0.0,Specialist A
+20000004773,Search - Industrial - China - 129,243200.0,1240.0,0.0,Specialist B
+20000004810,Search - Automotive - China - 130,243200.0,1240.0,0.0,Specialist C
+20000004847,Search - Datacom - China - 131,243200.0,1240.0,0.0,Specialist D
+20000004884,Search - Connectors - Japan - 132,45600.0,1240.0,0.0,Specialist A
+20000004921,Search - Cables - Japan - 133,243200.0,1240.0,0.0,Specialist B
+20000004958,Search - Fiber Optics - Japan - 134,364800.0,1240.0,0.0,Specialist C
+20000004995,Search - Antennas - UK - 135,91200.0,1240.0,0.0,Specialist D
+20000005032,Search - Backplane - UK - 136,243200.0,1240.0,0.0,Specialist A
+20000005069,Search - High-Speed I/O - UK - 137,45600.0,1240.0,0.0,Specialist B
+20000005106,Search - Power - France - 138,152000.0,1240.0,0.0,Specialist C
+20000005143,Search - RF - France - 139,152000.0,1240.0,0.0,Specialist D
+20000005180,Search - Sensors - France - 140,608000.0,1240.0,0.0,Specialist A
+20000005217,Search - Industrial - Mexico - 141,91200.0,1240.0,0.0,Specialist B
+20000005254,Search - Automotive - Mexico - 142,91200.0,1240.0,0.0,Specialist C
+20000005291,Search - Datacom - Mexico - 143,152000.0,1240.0,0.0,Specialist D
+20000005328,Search - Connectors - India - 144,608000.0,1240.0,0.0,Specialist A
+20000005365,Search - Cables - India - 145,608000.0,1240.0,0.0,Specialist B
+20000005402,Search - Fiber Optics - India - 146,45600.0,1240.0,0.0,Specialist C
+20000005439,Search - Antennas - US - 147,91200.0,1240.0,0.0,Specialist D
+20000005476,Search - Backplane - US - 148,364800.0,1240.0,0.0,Specialist A
+20000005513,Search - High-Speed I/O - US - 149,45600.0,1240.0,0.0,Specialist B
+20000005550,Search - Power - Germany - 150,608000.0,1240.0,0.0,Specialist C
+20000005587,Search - RF - Germany - 151,91200.0,1240.0,0.0,Specialist D
+20000005624,Search - Sensors - Germany - 152,608000.0,1240.0,0.0,Specialist A
+20000005661,Search - Industrial - China - 153,91200.0,1240.0,0.0,Specialist B
+20000005698,Search - Automotive - China - 154,152000.0,1240.0,0.0,Specialist C
+20000005735,Search - Datacom - China - 155,243200.0,1240.0,0.0,Specialist D
+20000005772,Search - Connectors - Japan - 156,45600.0,1240.0,0.0,Specialist A
+20000005809,Search - Cables - Japan - 157,243200.0,1240.0,0.0,Specialist B
+20000005846,Search - Fiber Optics - Japan - 158,243200.0,1240.0,0.0,Specialist C
+20000005883,Search - Antennas - UK - 159,364800.0,1240.0,0.0,Specialist D
+20000005920,Performance Max - Backplane - UK - 160,608000.0,0.0,4.0,Specialist A
+20000005957,Performance Max - High-Speed I/O - UK - 161,243200.0,0.0,4.0,Specialist B
+20000005994,Performance Max - Power - France - 162,152000.0,0.0,4.0,Specialist C
+20000006031,Performance Max - RF - France - 163,152000.0,0.0,4.0,Specialist D
+20000006068,Performance Max - Sensors - France - 164,152000.0,0.0,4.0,Specialist A
+20000006105,Performance Max - Industrial - Mexico - 165,364800.0,0.0,4.0,Specialist B
+20000006142,Performance Max - Automotive - Mexico - 166,91200.0,0.0,4.0,Specialist C
+20000006179,Performance Max - Datacom - Mexico - 167,91200.0,0.0,4.0,Specialist D
+20000006216,Performance Max - Connectors - India - 168,152000.0,0.0,4.0,Specialist A
+20000006253,Performance Max - Cables - India - 169,45600.0,0.0,4.0,Specialist B
+20000006290,Performance Max - Fiber Optics - India - 170,45600.0,0.0,4.0,Specialist C
+20000006327,Performance Max - Antennas - US - 171,45600.0,0.0,4.0,Specialist D
+20000006364,Performance Max - Backplane - US - 172,364800.0,0.0,4.0,Specialist A
+20000006401,Performance Max - High-Speed I/O - US - 173,364800.0,0.0,4.0,Specialist B
+20000006438,Performance Max - Power - Germany - 174,364800.0,0.0,4.0,Specialist C
+20000006475,Performance Max - RF - Germany - 175,152000.0,0.0,4.0,Specialist D
+20000006512,Performance Max - Sensors - Germany - 176,364800.0,0.0,4.0,Specialist A
+20000006549,Performance Max - Industrial - China - 177,45600.0,0.0,4.0,Specialist B
+20000006586,Shopping - Automotive - China - 178,608000.0,0.0,4.0,Specialist C
+20000006623,Shopping - Datacom - China - 179,243200.0,0.0,4.0,Specialist D
+20000006660,Shopping - Connectors - Japan - 180,608000.0,0.0,4.0,Specialist A
+20000006697,Shopping - Cables - Japan - 181,45600.0,0.0,4.0,Specialist B
+20000006734,Shopping - Fiber Optics - Japan - 182,152000.0,0.0,4.0,Specialist C
+20000006771,Shopping - Antennas - UK - 183,364800.0,0.0,4.0,Specialist D
+20000006808,Shopping - Backplane - UK - 184,152000.0,0.0,4.0,Specialist A
+20000006845,Shopping - High-Speed I/O - UK - 185,152000.0,0.0,4.0,Specialist B
+20000006882,Demand Gen - Power - France - 186,45600.0,2340.0,0.0,Specialist C
+20000006919,Demand Gen - RF - France - 187,152000.0,2340.0,0.0,Specialist D
+20000006956,Demand Gen - Sensors - France - 188,91200.0,2340.0,0.0,Specialist A
+20000006993,Demand Gen - Industrial - Mexico - 189,91200.0,2340.0,0.0,Specialist B
+20000007030,Demand Gen - Automotive - Mexico - 190,364800.0,2340.0,0.0,Specialist C
+20000007067,Demand Gen - Datacom - Mexico - 191,243200.0,2340.0,0.0,Specialist D
+20000007104,Demand Gen - Connectors - India - 192,243200.0,2340.0,0.0,Specialist A
+20000007141,Demand Gen - Cables - India - 193,152000.0,2340.0,0.0,Specialist B
+20000007178,Display - Fiber Optics - India - 194,608000.0,1730.0,0.0,Specialist C
+20000007215,Display - Antennas - US - 195,45600.0,1730.0,0.0,Specialist D
+20000007252,Display - Backplane - US - 196,152000.0,1730.0,0.0,Specialist A
+20000007289,Display - High-Speed I/O - US - 197,45600.0,1730.0,0.0,Specialist B
+20000007326,Video - Power - Germany - 198,152000.0,1950.0,0.0,Specialist C
+20000007363,Video - RF - Germany - 199,608000.0,1950.0,0.0,Specialist D
+20000007400,Search - Sensors - Germany - 200,152000.0,1240.0,0.0,Specialist A
+20000007437,Search - Industrial - China - 201,608000.0,1240.0,0.0,Specialist B
+20000007474,Search - Automotive - China - 202,152000.0,1240.0,0.0,Specialist C
+20000007511,Search - Datacom - China - 203,364800.0,1240.0,0.0,Specialist D
+20000007548,Search - Connectors - Japan - 204,152000.0,1240.0,0.0,Specialist A
+20000007585,Search - Cables - Japan - 205,91200.0,1240.0,0.0,Specialist B
+20000007622,Search - Fiber Optics - Japan - 206,364800.0,1240.0,0.0,Specialist C
+20000007659,Search - Antennas - UK - 207,608000.0,1240.0,0.0,Specialist D
+20000007696,Search - Backplane - UK - 208,91200.0,1240.0,0.0,Specialist A
+20000007733,Search - High-Speed I/O - UK - 209,364800.0,1240.0,0.0,Specialist B
+20000007770,Search - Power - France - 210,91200.0,1240.0,0.0,Specialist C
+20000007807,Search - RF - France - 211,364800.0,1240.0,0.0,Specialist D
+20000007844,Search - Sensors - France - 212,364800.0,1240.0,0.0,Specialist A
+20000007881,Search - Industrial - Mexico - 213,152000.0,1240.0,0.0,Specialist B
+20000007918,Search - Automotive - Mexico - 214,364800.0,1240.0,0.0,Specialist C
+20000007955,Search - Datacom - Mexico - 215,91200.0,1240.0,0.0,Specialist D
+20000007992,Search - Connectors - India - 216,45600.0,1240.0,0.0,Specialist A
+20000008029,Search - Cables - India - 217,45600.0,1240.0,0.0,Specialist B
+20000008066,Search - Fiber Optics - India - 218,152000.0,1240.0,0.0,Specialist C
+20000008103,Search - Antennas - US - 219,608000.0,1240.0,0.0,Specialist D
+20000008140,Search - Backplane - US - 220,45600.0,1240.0,0.0,Specialist A
+20000008177,Search - High-Speed I/O - US - 221,152000.0,1240.0,0.0,Specialist B
+20000008214,Search - Power - Germany - 222,364800.0,1240.0,0.0,Specialist C
+20000008251,Search - RF - Germany - 223,91200.0,1240.0,0.0,Specialist D
+20000008288,Search - Sensors - Germany - 224,364800.0,1240.0,0.0,Specialist A
+20000008325,Search - Industrial - China - 225,91200.0,1240.0,0.0,Specialist B
+20000008362,Search - Automotive - China - 226,364800.0,1240.0,0.0,Specialist C
+20000008399,Search - Datacom - China - 227,243200.0,1240.0,0.0,Specialist D
+20000008436,Search - Connectors - Japan - 228,243200.0,1240.0,0.0,Specialist A
+20000008473,Search - Cables - Japan - 229,91200.0,1240.0,0.0,Specialist B
+20000008510,Search - Fiber Optics - Japan - 230,152000.0,1240.0,0.0,Specialist C
+20000008547,Search - Antennas - UK - 231,608000.0,1240.0,0.0,Specialist D
+20000008584,Search - Backplane - UK - 232,45600.0,1240.0,0.0,Specialist A
+20000008621,Search - High-Speed I/O - UK - 233,364800.0,1240.0,0.0,Specialist B
+20000008658,Search - Power - France - 234,152000.0,1240.0,0.0,Specialist C
+20000008695,Search - RF - France - 235,364800.0,1240.0,0.0,Specialist D
+20000008732,Search - Sensors - France - 236,243200.0,1240.0,0.0,Specialist A
+20000008769,Search - Industrial - Mexico - 237,152000.0,1240.0,0.0,Specialist B
+20000008806,Search - Automotive - Mexico - 238,91200.0,1240.0,0.0,Specialist C
+20000008843,Search - Datacom - Mexico - 239,243200.0,1240.0,0.0,Specialist D
+20000008880,Search - Connectors - India - 240,45600.0,1240.0,0.0,Specialist A
+20000008917,Search - Cables - India - 241,243200.0,1240.0,0.0,Specialist B
+20000008954,Search - Fiber Optics - India - 242,45600.0,1240.0,0.0,Specialist C
+20000008991,Search - Antennas - US - 243,243200.0,1240.0,0.0,Specialist D
+20000009028,Search - Backplane - US - 244,243200.0,1240.0,0.0,Specialist A
+20000009065,Search - High-Speed I/O - US - 245,45600.0,1240.0,0.0,Specialist B
+20000009102,Search - Power - Germany - 246,364800.0,1240.0,0.0,Specialist C
+20000009139,Search - RF - Germany - 247,152000.0,1240.0,0.0,Specialist D
+20000009176,Search - Sensors - Germany - 248,364800.0,1240.0,0.0,Specialist A
+20000009213,Search - Industrial - China - 249,45600.0,1240.0,0.0,Specialist B
+20000009250,Search - Automotive - China - 250,91200.0,1240.0,0.0,Specialist C
+20000009287,Search - Datacom - China - 251,152000.0,1240.0,0.0,Specialist D
+20000009324,Search - Connectors - Japan - 252,91200.0,1240.0,0.0,Specialist A
+20000009361,Search - Cables - Japan - 253,91200.0,1240.0,0.0,Specialist B
+20000009398,Search - Fiber Optics - Japan - 254,243200.0,1240.0,0.0,Specialist C
+20000009435,Search - Antennas - UK - 255,45600.0,1240.0,0.0,Specialist D
+20000009472,Search - Backplane - UK - 256,364800.0,1240.0,0.0,Specialist A
+20000009509,Search - High-Speed I/O - UK - 257,45600.0,1240.0,0.0,Specialist B
+20000009546,Search - Power - France - 258,91200.0,1240.0,0.0,Specialist C
+20000009583,Search - RF - France - 259,243200.0,1240.0,0.0,Specialist D
+20000009620,Performance Max - Sensors - France - 260,364800.0,0.0,4.0,Specialist A
+20000009657,Performance Max - Industrial - Mexico - 261,91200.0,0.0,4.0,Specialist B
+20000009694,Performance Max - Automotive - Mexico - 262,91200.0,0.0,4.0,Specialist C
+20000009731,Performance Max - Datacom - Mexico - 263,608000.0,0.0,4.0,Specialist D
+20000009768,Performance Max - Connectors - India - 264,608000.0,0.0,4.0,Specialist A
+20000009805,Performance Max - Cables - India - 265,243200.0,0.0,4.0,Specialist B
+20000009842,Performance Max - Fiber Optics - India - 266,152000.0,0.0,4.0,Specialist C
+20000009879,Performance Max - Antennas - US - 267,152000.0,0.0,4.0,Specialist D
+20000009916,Performance Max - Backplane - US - 268,243200.0,0.0,4.0,Specialist A
+20000009953,Performance Max - High-Speed I/O - US - 269,243200.0,0.0,4.0,Specialist B
+20000009990,Performance Max - Power - Germany - 270,91200.0,0.0,4.0,Specialist C
+20000010027,Performance Max - RF - Germany - 271,45600.0,0.0,4.0,Specialist D
+20000010064,Performance Max - Sensors - Germany - 272,45600.0,0.0,4.0,Specialist A
+20000010101,Performance Max - Industrial - China - 273,608000.0,0.0,4.0,Specialist B
+20000010138,Performance Max - Automotive - China - 274,152000.0,0.0,4.0,Specialist C
+20000010175,Performance Max - Datacom - China - 275,152000.0,0.0,4.0,Specialist D
+20000010212,Performance Max - Connectors - Japan - 276,152000.0,0.0,4.0,Specialist A
+20000010249,Performance Max - Cables - Japan - 277,364800.0,0.0,4.0,Specialist B
+20000010286,Shopping - Fiber Optics - Japan - 278,45600.0,0.0,4.0,Specialist C
+20000010323,Shopping - Antennas - UK - 279,45600.0,0.0,4.0,Specialist D
+20000010360,Shopping - Backplane - UK - 280,91200.0,0.0,4.0,Specialist A
+20000010397,Shopping - High-Speed I/O - UK - 281,152000.0,0.0,4.0,Specialist B
+20000010434,Shopping - Power - France - 282,364800.0,0.0,4.0,Specialist C
+20000010471,Shopping - RF - France - 283,152000.0,0.0,4.0,Specialist D
+20000010508,Shopping - Sensors - France - 284,152000.0,0.0,4.0,Specialist A
+20000010545,Shopping - Industrial - Mexico - 285,608000.0,0.0,4.0,Specialist B
+20000010582,Demand Gen - Automotive - Mexico - 286,45600.0,2340.0,0.0,Specialist C
+20000010619,Demand Gen - Datacom - Mexico - 287,243200.0,2340.0,0.0,Specialist D
+20000010656,Demand Gen - Connectors - India - 288,243200.0,2340.0,0.0,Specialist A
+20000010693,Demand Gen - Cables - India - 289,152000.0,2340.0,0.0,Specialist B
+20000010730,Demand Gen - Fiber Optics - India - 290,364800.0,2340.0,0.0,Specialist C
+20000010767,Demand Gen - Antennas - US - 291,91200.0,2340.0,0.0,Specialist D
+20000010804,Demand Gen - Backplane - US - 292,608000.0,2340.0,0.0,Specialist A
+20000010841,Demand Gen - High-Speed I/O - US - 293,91200.0,2340.0,0.0,Specialist B
+20000010878,Display - Power - Germany - 294,243200.0,1730.0,0.0,Specialist C
+20000010915,Display - RF - Germany - 295,243200.0,1730.0,0.0,Specialist D
+20000010952,Display - Sensors - Germany - 296,608000.0,1730.0,0.0,Specialist A
+20000010989,Display - Industrial - China - 297,152000.0,1730.0,0.0,Specialist B
+20000011026,Video - Automotive - China - 298,91200.0,1950.0,0.0,Specialist C
+20000011063,Video - Datacom - China - 299,45600.0,1950.0,0.0,Specialist D
